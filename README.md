@@ -8,11 +8,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div style="font-size:10%", align="center">
+<div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
   </a>
-  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
+  <h3 align="center">### visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
 </div>
 
 <br />
