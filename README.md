@@ -28,11 +28,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">How To Run</a></li>
+        <li><a href="#prerequisites">Prerequisites & Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">How to Run</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -60,7 +59,7 @@ A word cloud (also known as a tag cloud) is a visual representation of words. Cl
 
 this section explain instructions which should be followed to setting up the project. it is easier to run scripts from terminal by passing argument with the help of argparse library and this project also follow this pattern
 
-### Prerequisites
+### Prerequisites & Installation
 
 <ul>
   <li>
@@ -95,14 +94,6 @@ after following <b>Prerequisites</b> section steps and setting up all necessary 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-## Usage
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
