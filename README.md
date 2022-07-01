@@ -82,7 +82,7 @@ this section explain instructions which should be followed to setting up the pro
 
 <ul>
   <li>install all library specified whithin requirement.txt on  your virtual env</li>
-  <li>if you are running codes on <b>linux</b> or <b>WSL</b>, you should have a <b>graphical interfece</b> installed on your system. for example for WSl          --> GWSL can be used
+  <li>if you are running codes on <b>linux</b> or <b>WSL</b>, you should have a <b>graphical interfece</b> installed on your system. for example for WSl          --> <b>GWSL</b> can be used
   </li>
 </ul>
 
