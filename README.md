@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/wordcloud.png" alt="wordcloud" width="80" height="80">
+    <img src="images/wordcloud.png" alt="wordcloud" width="200" height="200">
   </a>
 
   <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
