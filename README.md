@@ -63,7 +63,7 @@ this section explain instructions which should be followed to setting up the pro
 
 <ul>
   <li>
-    there is a json format file inside <b>src/data</b> named <b>cs_stack</b>. it is initially used as sample data to create wordcloud. it can be replaced by any other json format file extracted from <b>telegram</b> after cloning repo. for doing so:
+    there is a json format file inside <b>src/data</b> named <b>data</b>. it is initially used as sample data to create wordcloud. it can be replaced by       any other json format file extracted from <b>telegram</b> after cloning repo. for doing so:
     <ol type="1">
       <li>enter a chat\channel\group in your telegram. on right corner of page there is menu; open it</li>
       <li>on opened menu, click on export chat history</li>
@@ -71,7 +71,7 @@ this section explain instructions which should be followed to setting up the pro
       <li>after finishing download, replace it with cs_stack</li>
     </ol>
   </li>
-  <li>inside data directory there is file named <b>BHoma.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf format after cloning repo</li>
+  <li>inside data directory there is file named <b>font.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf format after cloning repo</li>
    <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
