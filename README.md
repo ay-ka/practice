@@ -44,7 +44,42 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-..............
+<ul>
+  <li>
+    Graph Search
+    <ul>
+      <li><b>BFS:</b></li>
+      <li><b>DFS:</b></li>
+      <li><b>A*</b></li>
+      <li><b>Uniform Cost Search</b></li>
+      <li><b>Bellman Ford</b></li>
+      <li><b>Dijekstra</b></li>
+    <ul>
+  </li>
+  <li>
+    Search 
+    <ul>
+      <li><b>Binary Search</b></li>
+      <li><b>Fibonachi Search</b></li>
+    <ul>
+  </li>
+   <li>
+     Sort
+     <ul>
+        <li><b>Merge Sort</b></li>
+        <li><b>Quick Sort</b></li>
+        <li><b>Heap Sort</b></li>
+      <ul>
+   </li>
+   <li>
+     <ul>
+        <li><b>Linked List</b></li>
+     </ul>
+   </li>
+</ul>
+
+
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
