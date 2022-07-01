@@ -191,7 +191,7 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-
+<!-- 
 <b>Run:</b> there are two ways for running codes:
 
 1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
@@ -230,7 +230,7 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   <li>for Search: BINARY, FIBO</li>
   <li>for Sort: MERGE, QUICK, HEAP</li>
   <li>BFS-DFS: BFS, DFS</li>
-</ol>
+</ol> -->
 
 
 
