@@ -230,7 +230,7 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
 
 <ul>
   <li>
-    <b>arguments</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+    <b>Take arguments list</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
   </li>
 </ul>
 
