@@ -51,7 +51,9 @@
       <li>
         BFS:  Breadth-First Traversal (or Search) for a graph is similar to Breadth-First Traversal of a tree (See method 2 of this post). The only catch                 here is, that, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once,                   we use a boolean visited array. data structure used for this algorithm is <b>Queue</b>
       </li>
-      <li>DFS:</li>
+      <li>
+        DFS: Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may              contain cycles (a node may be visited twice). To avoid processing a node more than once, use a boolean visited array. data structure used for              this algorithm is <b>Stack</b>
+      </li>
       <li>A*</li>
       <li>Uniform Cost Search</li>
       <li>Bellman Ford</li>
