@@ -125,7 +125,7 @@ this section explain instructions which should be followed to setting up the pro
       <li>
         <ol type="1">
           <li>
-            <b>data_distances.txt:</b> inside this file pattern is -->  
+            <b>data_distances.txt:</b> inside this file pattern is -->  </br>
             first_column = first_city_name; second_column = second_city_name; third_column = distances
             </b>
           </li>
