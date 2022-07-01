@@ -222,9 +222,32 @@ python src/Astar/main.py --help
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/<AlgorithmName>/main.py 
+python src/<algorithm-directory-name>/main.py --arguments
 ```
 
+
+
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+
+
+
+2- for BFS-DFS, SEARCH, SORT
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py  algorithmname --arguments
+```
+
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
