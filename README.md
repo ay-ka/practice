@@ -215,20 +215,17 @@ python src/Astar/main.py --help
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
-<ul>
-  <li>
-    <b>Run:</b> there is two wat for running codes:
-    <ol type="1">
-      1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:
-      ```sh
-      git clone https://github.com/ay-ka/Algorithms.git
-      cd Algorithms
-      export PYTHONPATH=$PWD
-      python src/<AlgorithmName>/main.py 
-      ```
-    </ol>
-  </li>
-</ul>
+<b>Run:</b> there is two wat for running codes:
+
+1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/<AlgorithmName>/main.py 
+```
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
