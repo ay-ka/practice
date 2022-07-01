@@ -127,7 +127,7 @@ this section explain instructions which should be followed to setting up the pro
         <ol type="1">
           <li>
             <b>data_distances.txt:</b> inside this file pattern is -->  <br/>
-            first_column = first_node_name; second_column = second_node_name; third_column = distances
+            first_column = first_node_name; second_column = second_node_name (connected to first node); third_column = distances
             </b>
           </li>
           <li>
@@ -144,10 +144,10 @@ this section explain instructions which should be followed to setting up the pro
         </ol>
       </li>
       <li>
-        <b>BFS-DFS</b>
+        <b>Bellman-Ford</b>
         <ol type="1">
           <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
           </li>
         </ol>
       </li>
