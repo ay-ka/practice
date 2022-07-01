@@ -207,14 +207,14 @@ python src/<algorithm-directory-name>/main.py --arguments
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/Astar/main.py --start s --goal f
+python src/Astar/main.py --start ? --goal ?
 ```
 *Bellman-Ford
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/Astar/main.py --start 1
+python src/Astar/main.py --start ?
 ```
 
 2- for BFS-DFS, SEARCH, SORT
@@ -224,6 +224,13 @@ cd Algorithms
 export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --arguments
 ```
+
+*** ALGORITHMNAME
+<ol type="1">
+  <li>for Search: BINARY, FIBO</li>
+  <li>for Sort: MERGE, QUICK, HEAP</li>
+  <li>BFS-DFS: BFS, DFS</li>
+</ol>
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
