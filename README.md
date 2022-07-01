@@ -11,6 +11,7 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
+    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
   </a>
   <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance (Persian Version)</h3>
 </div>
