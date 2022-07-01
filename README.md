@@ -85,7 +85,7 @@ after following <b>Prerequisites</b> section steps and setting up all necessary 
   <li>
     <p>
       <b>ADD TO PYTHONPATH:</b>
-      go to repo directory from terminal and run: <b>export PYTHONPATH=$PWD</b>
+      go to repo directory through terminal and run: <b>export PYTHONPATH=$PWD</b>
     </p>
   </li>
   <li>
