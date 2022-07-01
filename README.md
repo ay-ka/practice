@@ -159,7 +159,7 @@ this section explain instructions which should be followed to setting up the pro
           </li>
         </ol>
       </li>
-        <li>
+      <li>
         <b>LinkedList</b>
         <ol type="1">
           <li>
@@ -167,27 +167,11 @@ this section explain instructions which should be followed to setting up the pro
           </li>
         </ol>
       </li>
-        <li>
-        <b>BFS-DFS</b>
+      <li>
+        <b>UCS</b>
         <ol type="1">
           <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
-          </li>
-        </ol>
-      </li>
-        <li>
-        <b>BFS-DFS</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
-          </li>
-        </ol>
-      </li>
-        <li>
-        <b>BFS-DFS</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
           </li>
         </ol>
       </li>
