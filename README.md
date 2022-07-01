@@ -77,6 +77,12 @@ this section explain instructions which should be followed to setting up the pro
 
 ### How to Run
 
+```sh
+git clone https://github.com/semitable/lb-foraging.git
+cd lb-foraging
+pip install -e .
+```
+
 after following <b>Prerequisites</b> section steps and setting up all necessary dependencies follow below steps to run program:
 
 <ul>
