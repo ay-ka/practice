@@ -270,7 +270,7 @@ python src/Astar/main.py --help
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
-2- <b>for BFS-DFS, SEARCH, SORT</b>
+<b>2- for BFS-DFS, SEARCH, SORT</b>
 
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
