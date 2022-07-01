@@ -193,7 +193,7 @@ this section explain instructions which should be followed to setting up the pro
 
 <b>Run:</b> there are two ways for running codes:
 
-1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
+<b>1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b> <br/>
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
@@ -216,13 +216,7 @@ export PYTHONPATH=$PWD
 python src/Astar/main.py --start ?
 ```
 
-2- for BFS-DFS, SEARCH, SORT
-```sh
-git clone https://github.com/ay-ka/Algorithms.git
-cd Algorithms
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --arguments
-```
+<b>2- for BFS-DFS, SEARCH, SORT</b>
 
 *** ALGORITHMNAME
 <ol type="1">
@@ -230,6 +224,14 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   <li>for Sort: MERGE, QUICK, HEAP</li>
   <li>BFS-DFS: BFS, DFS</li>
 </ol>
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --arguments
+```
+
 
 for example for BFS:
 
