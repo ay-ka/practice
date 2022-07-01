@@ -14,13 +14,13 @@
   </a>
 
   <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
-  
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
+  </br>
   <summary>Table of Contents</summary>
   <ol>
     <li>
