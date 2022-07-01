@@ -98,7 +98,7 @@
      <ul>
         <li>
           <b>Linked List:</b> A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements                                 in a linked list are linked using pointers as shown in the below image:
-          <img src="images/linked_list.png" alt="algorithms" width="400" height="400"> 
+          <img src="images/linkedlist.png" alt="algorithms" width="400" height="400"> 
        </li>
      </ul>
    </li>
