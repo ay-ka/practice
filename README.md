@@ -46,61 +46,22 @@
 
 <ul>
   <li>
-    <b>Graph Search</b>
-    <ul>
-      <li>
-        <b>BFS</b>:  Breadth-First Traversal (or Search) for a graph is similar to Breadth-First Traversal of a tree (See method 2 of this post). The only                      catch here is, that, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more                        than once, we use a boolean visited array. data structure used for this algorithm is <b>Queue</b>
-      </li>
-      <li>
-        <b>DFS</b>: Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees,                         graphs may contain cycles (a node may be visited twice). To avoid processing a node more than once, use a boolean visited array. data                       structure used for this algorithm is <b>Stack</b>
-      </li>
-      <li>
-        <b>A*:</b> A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals. Informally speaking, A* Search                      algorithms, unlike other traversal techniques, it has “brains”. What it means is that it is really a smart algorithm which separates it                    from the other conventional algorithms
-      </li>
-      <li>
-        <b>Uniform Cost Search:</b> Uniform-Cost Search is a variant of Dijikstra’s algorithm. This variant of Dijkstra is useful for infinite graphs and                                       those graph which are too large to represent in the memory. data structure used for this algorithm is <b>Priority                                           Queue</b>
-      </li>
-      <li>
-        <b>Bellman Ford:</b> Given a graph and a source vertex src in graph, find shortest paths from src to all vertices in the given graph. The graph may                              contain negative weight edges. 
-      </li>
-      <li>
-        <b>Dijekstra:</b> Given a graph and a source vertex in the graph, find the shortest paths from the source to all vertices in the given graph.
-      </li>
-    </ul>
+    <b>Genetic Algorithm: </b>
   </li>
   <li>
-    <b>Search</b>
-    <ul>
-      <li>
-        <b>Binary Search:</b> Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of                               binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
-      </li>
-      <li>
-        <b>Fibonachi Search:</b> Fibonacci Search is a comparison-based technique that uses Fibonacci numbers to search an element in a sorted array.
-      </li>
-    </ul>
+    <b>Partickle Swarm Optimization (PSO):</b>
   </li>
    <li>
-     <b>Sort</b>
-     <ul>
-        <li>
-          <b>Merge Sort:</b> The Merge Sort algorithm is a sorting algorithm that is considered as an example of the divide and conquer strategy.
-       </li>
-        <li>
-          <b>Quick Sort:</b> Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array                                  around the picked pivo
-       </li>
-        <li>
-          <b>Heap Sort:</b> Heap sort is a comparison-based sorting technique based on Binary Heap data structure. It is similar to selection sort where we                             first find the minimum element and place the minimum element at the beginning. We repeat the same process for the remaining                                 elements
-       </li>
-      </ul>
+     <b>Ant Colony Optimization (ACO)</b>
    </li>
    <li>
-     <b>Linked List</b>
-     <ul>
-        <li>
-          <b>Linked List:</b> A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements                                 in a linked list are linked using pointers as shown in the below image:
-        </li>
-         <img src="images/linkedlist.png" alt="algorithms" width="800" height="200"> 
-     </ul>
+     <b>Ant Colony Optimization Continues Spaces (ACOR)</b>
+   </li>
+    <li>
+     <b>Gray Wolf Optimization</b>
+   </li>
+   <li>
+     <b>NEAT (NeuroEvolution of Augmenting Topologies) Visuilazation through Web</b>
    </li>
 </ul>
 
