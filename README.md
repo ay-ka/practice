@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ay-ka/WordCloud">
     <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
     <img src="images/wordcloud.png" alt="wordcloud" width="500" height="300">
   </a>
