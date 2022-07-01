@@ -114,7 +114,7 @@ for example for Genetic:
 git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
 cd Evolutionary-Algorithms
 export PYTHONPATH=$PWD
-python src/Genetic/main.py --pop_size ? --otherarguments
+python src/Genetic/main.py --pop_size ? --otherarguments ?
 ```
 
 for example for GWO
@@ -123,7 +123,7 @@ for example for GWO
 git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
 cd Evolutionary-Algorithms
 export PYTHONPATH=$PWD
-python src/GWO/main.py --pop_size ? --otherarguments
+python src/GWO/main.py --pop_size ? --otherarguments ?
 ```
 
 
