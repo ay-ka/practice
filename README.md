@@ -135,11 +135,13 @@ this section explain instructions which should be followed to setting up the pro
 
 ### How To Run
 
+
+
 ```sh
-git clone https://github.com/ay-ka/WordCloud.git
-cd WordCloud
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
 export PYTHONPATH=$PWD
-python src/main.py
+python src/<AlgorithmNmae>/main.py
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
