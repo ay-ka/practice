@@ -85,11 +85,11 @@ after following <b>Prerequisites</b> section steps and setting up all necessary 
   <li>
     <p>
       <b>ADD TO PYTHONPATH:</b>
-      go to repo directory from terminal and run: export PYTHONPATH=$PWD
+      go to repo directory from terminal and run: <b>export PYTHONPATH=$PWD</b>
     </p>
   </li>
   <li>
-    run this: python src/main.py
+    run this: <b>python src/main.py</b>
   </li>
 </ul>
 
