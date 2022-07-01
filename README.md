@@ -224,7 +224,7 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450"
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 
 
@@ -250,6 +250,8 @@ cd Algorithms
 export PYTHONPATH=$PWD
 python src/Astar/main.py --help
 ```
+
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 2- <b>for BFS-DFS, SEARCH, SORT</b>
 
