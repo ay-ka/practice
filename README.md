@@ -195,14 +195,12 @@ this section explain instructions which should be followed to setting up the pro
   <li>
     All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
   </li>
-  <li>
     ```sh
     git clone https://github.com/ay-ka/Algorithms.git
     cd Algorithms
     export PYTHONPATH=$PWD
-    python src/<AlgorithmName>/main.py --help
+    python src/<AlgorithmName>/main.py
     ```
-  </li>
 </ul>
 
 
