@@ -143,12 +143,54 @@ this section explain instructions which should be followed to setting up the pro
           </li>
         </ol>
       </li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
+        <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
+        <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
+        <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
+        <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
+        <li>
+        <b>BFS-DFS</b>
+        <ol type="1">
+          <li>
+              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
+          </li>
+        </ol>
+      </li>
     </ol>
   </li>
   <li>install all library specified whithin requirement.txt on  your virtual env</li>
