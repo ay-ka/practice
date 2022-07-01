@@ -60,8 +60,12 @@
       <li>
         <b>Uniform Cost Search:</b> Uniform-Cost Search is a variant of Dijikstra’s algorithm. This variant of Dijkstra is useful for infinite graphs and                                       those graph which are too large to represent in the memory. data structure used for this algorithm is <b>Priority                                           Queue</b>
       </li>
-      <li>Bellman Ford</li>
-      <li>Dijekstra</li>
+      <li>
+        <b>Bellman Ford:</b> Given a graph and a source vertex src in graph, find shortest paths from src to all vertices in the given graph. The graph may                              contain negative weight edges. 
+      </li>
+      <li>
+        <b>Dijekstra:</b> Given a graph and a source vertex in the graph, find the shortest paths from the source to all vertices in the given graph.
+      </li>
     </ul>
   </li>
   <li>
