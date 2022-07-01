@@ -48,7 +48,8 @@
   <li>
     <b>Graph Search</b>
     <ul>
-      <li>BFS:</li>
+      <li>BFS:Breadth-First Traversal (or Search) for a graph is similar to Breadth-First Traversal of a tree (See method 2 of this post). The only catch             here is, that, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use           a boolean visited array. data structure used for this algorithm is <b>Queue</b>
+      </li>
       <li>DFS:</li>
       <li>A*</li>
       <li>Uniform Cost Search</li>
