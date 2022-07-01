@@ -48,8 +48,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot.png" alt="wordcloud" width="100" height="100">
 
+<div align="center">
+<img src="images/screenshot.png" alt="wordcloud" width="300" height="300">
+</div>
+  
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
