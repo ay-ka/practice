@@ -125,11 +125,11 @@ this section explain instructions which should be followed to setting up the pro
       <li>
         <ol type="1">
           <li>
-            <b>data_distances.txt:</b> inside this file pattern is -->  first_column = first_city; second_column = second_city; third_column =                            distances
+            <b>data_distances.txt:</b> inside this file pattern is -->  first_column = first_city_name; second_column = second_city_name; third_column =                  distances
             </b>
           </li>
           <li>
-            <b>data_distances.txt:</b> inside this file pattern is -->  first_column = first_city; second_column = second_city; third_column =                            distances
+            <b>data_huristics.txt:</b> inside this file pattern is -->  first_column = city_name; second_column = city's huristic
           </li>
         </ol>
       </li>
