@@ -52,10 +52,14 @@
         <b>BFS</b>:  Breadth-First Traversal (or Search) for a graph is similar to Breadth-First Traversal of a tree (See method 2 of this post). The only                      catch here is, that, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more                        than once, we use a boolean visited array. data structure used for this algorithm is <b>Queue</b>
       </li>
       <li>
-        DFS: Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may              contain cycles (a node may be visited twice). To avoid processing a node more than once, use a boolean visited array. data structure used for              this algorithm is <b>Stack</b>
+        <b>DFS</b>: Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees,                         graphs may contain cycles (a node may be visited twice). To avoid processing a node more than once, use a boolean visited array. data                       structure used for this algorithm is <b>Stack</b>
       </li>
-      <li>A*</li>
-      <li>Uniform Cost Search</li>
+      <li>
+        <b>A*:</b> A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals. Informally speaking, A* Search                      algorithms, unlike other traversal techniques, it has “brains”. What it means is that it is really a smart algorithm which separates it                    from the other conventional algorithms
+      </li>
+      <li>
+        <b>Uniform Cost Search:</b> Uniform-Cost Search is a variant of Dijikstra’s algorithm. This variant of Dijkstra is useful for infinite graphs and                                       those graph which are too large to represent in the memory. data structure used for this algorithm is <b>Priority                                           Queue</b>
+      </li>
       <li>Bellman Ford</li>
       <li>Dijekstra</li>
     </ul>
