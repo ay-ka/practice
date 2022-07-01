@@ -50,7 +50,7 @@
     <ul>
       <li>BFS:</li>
       <li>DFS:</li>
-      <li><b>A*</b></li>
+      <li>A*</li>
       <li>Uniform Cost Search</li>
       <li>Bellman Ford</li>
       <li>Dijekstra</li>
