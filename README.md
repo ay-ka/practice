@@ -71,22 +71,35 @@
   <li>
     <b>Search</b>
     <ul>
-      <li>Binary Search</li>
-      <li>Fibonachi Search</li>
+      <li>
+        <b>Binary Search:</b> Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of                               binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
+      </li>
+      <li>
+        <b>Fibonachi Search:</b> Fibonacci Search is a comparison-based technique that uses Fibonacci numbers to search an element in a sorted array.
+      </li>
     </ul>
   </li>
    <li>
      <b>Sort</b>
      <ul>
-        <li>Merge Sort</li>
-        <li>Quick Sort</li>
-        <li>Heap Sort</li>
+        <li>
+          <b>Merge Sort:</b> The Merge Sort algorithm is a sorting algorithm that is considered as an example of the divide and conquer strategy.
+       </li>
+        <li>
+          <b>Quick Sort:</b> Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array                                  around the picked pivo
+       </li>
+        <li>
+          <b>Heap Sort:</b> Heap sort is a comparison-based sorting technique based on Binary Heap data structure. It is similar to selection sort where we                             first find the minimum element and place the minimum element at the beginning. We repeat the same process for the remaining                                 elements
+       </li>
       </ul>
    </li>
    <li>
      <b>Linked List</b>
      <ul>
-        <li>Linked List</li>
+        <li>
+          <b>Linked List:</b> A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements                                 in a linked list are linked using pointers as shown in the below image:
+          <img src="images/linked_list.png" alt="algorithms" width="400" height="400"> 
+       </li>
      </ul>
    </li>
 </ul>
