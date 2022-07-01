@@ -12,7 +12,7 @@
   <a href="https://github.com/ay-ka/Algorithms">
     <img style="float:left" src="images/basic.jpg" alt="evolution" width="700" height="400">
   </a>
-  <h5 align="center">Implementation of various Evolutionary & Swarm Intelligence methods including ACO, ACOR, GENETIC, PSO, GWO, NEAT</h5>
+  <h5 align="center">Implementation of various Evolutionary & Swarm Intelligence methods including ACO, ACOR, GENETIC, PSO, GWO</h5>
 </div>
 
 <br />
@@ -59,10 +59,6 @@
    </li>
     <li>
      <b>Gray Wolf Optimization (GWO):</b> Grey wolf optimization algorithm (GWO) is a meta-heuristic optimization technology. Its principle is to imitate                                             the behavior of grey wolves in nature to hunt in a cooperative way. GWO is different from others in terms of                                               model structure. It is a large-scale search method centered on three optimal samples, and which is also the                                                 research object of manY scholars.
-   </li>
-   <li>
-     <b>NEAT (NeuroEvolution of Augmenting Topologies) Visuilazation through Web:</b> NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary                                     algorithm that creates artificial neural networks. in this work through web application interactions inside this algorithm 
-                              is visualized.
    </li>
 </ul>
 
