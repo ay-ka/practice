@@ -135,7 +135,7 @@ this section explain instructions which should be followed to setting up the pro
           </li>
         </ol>
         <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="400" height="300">
-        <img style="float:left" src="images/data_astar_heuristics.png" alt="algorithms" width="400" height="300">
+        <img style="float:left" src="images/data_astar_heuristic.png" alt="algorithms" width="400" height="300">
       </li>
       <li>
         <b>BFS-DFS</b>
