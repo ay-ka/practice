@@ -13,7 +13,7 @@
     <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
     <img src="images/wordcloud.png" alt="wordcloud" width="500" height="300">
   </a>
-  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance (Persian Version)</h3>
+  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance (this project mainly developed for persian data but with selecting proper english font and by adding proper stopwords could be run for english data also)</h3>
 </div>
 
 <br />
