@@ -16,7 +16,7 @@
   <h4 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h4>
 </div>
 
-<h6>(*** important: this project mainly developed for persian data but with selecting proper english font and by adding proper stopwords, it will work for          english data too)</h6>
+<h6>(*** important: the project mainly developed for persian words but with selecting proper english font & adding proper stopwords, it works for          english data too)</h6>
 
 <br />
 <br />
