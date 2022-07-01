@@ -78,7 +78,21 @@ this section explain instructions which should be followed to setting up the pro
 
 ### How to Run
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+after following <b>Prerequisites</b> section steps and setting up all necessary dependencies follow below steps to run program:
+
+<ul>
+  <li>to begin: <b>activate</b> your vertual env whitin which you set up Prerequisites steps, then <b>clone this repo on your local machine</b></li>
+  <li>
+    <p>
+      <b>ADD TO PYTHONPATH:</b>
+      go to <reponame>/ directory 
+      set PYTHONPATH --> export PYTHONPATH=$PWD
+    </p>
+  </li>
+  <li>
+    run --> python src/main.py
+  </li>
+</ul>
 
 ...........
 
