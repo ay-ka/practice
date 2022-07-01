@@ -193,7 +193,7 @@ this section explain instructions which should be followed to setting up the pro
 
 <ul>
   <li>
-    All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+    <b>arguments</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
   </li>
 </ul>
 
