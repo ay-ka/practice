@@ -9,11 +9,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ay-ka/WordCloud">
-    <img style="float:left" src="images/wordcloud.jpg" alt="wordcloud" width="400" height="300">
-    <img src="images/wordcloud.png" alt="wordcloud" width="400" height="300">
+  <a href="https://github.com/ay-ka/Algorithms">
+    <img style="float:left" src="images/algorithm.png" alt="algorithms" width="800" height="500">
   </a>
-  <h4 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h4>
+  <h4 align="center">implementing of various algorithm included informed graph  search & uninformed graph search & search methods & sort methods</h4>
 </div>
 
 <br />
