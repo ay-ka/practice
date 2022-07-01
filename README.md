@@ -46,35 +46,35 @@
 
 <ul>
   <li>
-    Graph Search
+    <b>Graph Search</b>
     <ul>
-      <li><b>BFS:</b></li>
-      <li><b>DFS:</b></li>
+      <li>BFS:</li>
+      <li>DFS:</li>
       <li><b>A*</b></li>
-      <li><b>Uniform Cost Search</b></li>
-      <li><b>Bellman Ford</b></li>
-      <li><b>Dijekstra</b></li>
+      <li>Uniform Cost Search</li>
+      <li>Bellman Ford</li>
+      <li>Dijekstra</li>
     </ul>
   </li>
   <li>
-    Search 
+    <b>Search</b>
     <ul>
-      <li><b>Binary Search</b></li>
-      <li><b>Fibonachi Search</b></li>
+      <li>Binary Search</li>
+      <li>Fibonachi Search</li>
     </ul>
   </li>
    <li>
-     Sort
+     <b>Sort</b>
      <ul>
-        <li><b>Merge Sort</b></li>
-        <li><b>Quick Sort</b></li>
-        <li><b>Heap Sort</b></li>
+        <li>Merge Sort</li>
+        <li>Quick Sort</li>
+        <li>Heap Sort</li>
       </ul>
    </li>
    <li>
-     Linked List
+     <b>Linked List</b>
      <ul>
-        <li><b>Linked List</b></li>
+        <li>Linked List</li>
      </ul>
    </li>
 </ul>
