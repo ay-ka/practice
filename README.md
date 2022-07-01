@@ -213,7 +213,7 @@ export PYTHONPATH=$PWD
 python src/Astar/main.py --help
 ```
 
-<img style="float:left" src="images/args.png" alt="algorithms" width="450" height="350">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
