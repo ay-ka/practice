@@ -18,6 +18,8 @@
 
 <h3 style="font-size:1px">(this project mainly developed for persian data but with selecting proper english font and by adding proper stopwords, it will work for english data too)</h3>
 
+#####this project mainly developed for persian data but with selecting proper english font and by adding proper stopwords, it will work for english data too
+
 <br />
 <br />
 
