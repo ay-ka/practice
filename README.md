@@ -72,32 +72,17 @@ this section explain instructions which should be followed to setting up the pro
     </ol>
   </li>
   <li>inside data directory there is file named <b>BHoma.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf format</li>
-   <li>install all library specified whithin requirement.txt</li>
+   <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
 ### How to Run
 
 ```sh
-git clone https://github.com/semitable/lb-foraging.git
-cd lb-foraging
-pip install -e .
+git clone https://github.com/ay-ka/WordCloud.git
+cd WordCloud
+export PYTHONPATH=$PWD
+python src/main.py
 ```
-
-after following <b>Prerequisites</b> section steps and setting up all necessary dependencies follow below steps to run program:
-
-<ul>
-  <li><b>clone this repo on your local machine inside that env</b></li>
-  <li>
-    <p>
-      <b>ADD TO PYTHONPATH:</b>
-      go to repo directory through terminal and run: <b>export PYTHONPATH=$PWD</b>
-    </p>
-  </li>
-  <li>
-    run this: <b>python src/main.py</b>
-  </li>
-</ul>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
