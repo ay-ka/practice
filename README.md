@@ -238,7 +238,7 @@ python src/<algorithm-directory-name>/main.py  algorithmname --arguments
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/<AlgorithmName>/main.py --help
+python src/<algorithm-directory-name>/main.py --help
 ```
 
 for example for A*:
