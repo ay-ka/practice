@@ -71,8 +71,9 @@ this section explain instructions which should be followed to setting up the pro
       <li>after finishing download, replace it with cs_stack</li>
     </ol>
   </li>
-  <li>inside data directory there is file named <b>font.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf format after cloning repo</li>
-   <li>install all library specified whithin requirement.txt on  your virtual env</li>
+  <li>inside data directory there is file named <b>font.ttf</b> which is used initially as a base font, it can be replaced by any other font file with .ttf       format after cloning repo</li>
+  <li>inside <b>src/data</b> there are two file <b>stopwords_per.txt</b> and <b>stopwords_en.txt</b>; if there are words that should be ignored and not             displayed on output resuilt, those words could be added to this file on a seperate line for each word </li>
+  <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
 ### How To Run
