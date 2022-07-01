@@ -12,7 +12,7 @@
   <a href="https://github.com/ay-ka/Algorithms">
     <img style="float:left" src="images/basic.jpg" alt="evolution" width="700" height="400">
   </a>
-  <h5 align="center">Implementation of various evolutionary & swarm intelligence methods including ACO, ACOR, GENETIC, PSO, GWO, NEAT</h5>
+  <h5 align="center">Implementation of various Evolutionary & Swarm Intelligence methods including ACO, ACOR, GENETIC, PSO, GWO, NEAT</h5>
 </div>
 
 <br />
