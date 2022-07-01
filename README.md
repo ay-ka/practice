@@ -191,7 +191,6 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<!-- 
 <b>Run:</b> there are two ways for running codes:
 
 1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
@@ -202,14 +201,14 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py --arguments
 ```
 
-*AStar
+for example for AStar
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
 python src/Astar/main.py --start ? --goal ?
 ```
-*Bellman-Ford
+for example for Bellman-Ford
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
@@ -230,7 +229,7 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   <li>for Search: BINARY, FIBO</li>
   <li>for Sort: MERGE, QUICK, HEAP</li>
   <li>BFS-DFS: BFS, DFS</li>
-</ol> -->
+</ol>
 
 
 
