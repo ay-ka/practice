@@ -136,6 +136,7 @@ this section explain instructions which should be followed to setting up the pro
         </ol>
       </li>
       <li>
+        <b>BFS-DFS</b>
         <b>
           data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first node)
         </b>
