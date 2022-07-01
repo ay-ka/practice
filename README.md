@@ -12,10 +12,12 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/wordcloud.png" alt="wordcloud" width="300" height="300">
   </a>
-  <h3 align="center" style="font-size:.5px;">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
+  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
 </div>
 
-
+<br />
+<br />
+<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
