@@ -232,26 +232,15 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   <li>BFS-DFS: BFS, DFS</li>
 </ol>
 
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-
 
 
 <ul>
   <li>
-    <b>Take arguments list</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+    <b>Take arguments list</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use                                --help:
   </li>
 </ul>
 
-<b>1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b>
-<br/>
+<b>1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b> <br/>
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
@@ -282,8 +271,19 @@ python src/<algorithm-directory-name>/main.py ALGORITHMNAME(uppercase) --help
 
 for example for BFS & DFS:
 
-<img src="images/bfs_help.png" alt="algorithms" width="800" height="50">
-<img src="images/dfs_help.png" alt="algorithms" width="800" height="50">
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/BFS-DFS/main.py BFS --help
+```
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/BFS-DFS/main.py DFS --help
+```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
