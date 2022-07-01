@@ -234,7 +234,7 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   </li>
 </ul>
 
-1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
+1- <b>for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b> <br/>
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
@@ -251,7 +251,7 @@ export PYTHONPATH=$PWD
 python src/Astar/main.py --help
 ```
 
-2- for BFS-DFS, SEARCH, SORT
+2- <b>for BFS-DFS, SEARCH, SORT</b>
 
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
