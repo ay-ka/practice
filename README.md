@@ -215,6 +215,12 @@ python src/Astar/main.py --help
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
+<ul>
+  <li>
+    <b>Run</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+  </li>
+</ul>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
