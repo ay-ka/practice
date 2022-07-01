@@ -134,7 +134,7 @@ this section explain instructions which should be followed to setting up the pro
             <b>data_huristics.txt:</b> inside this file pattern is -->  first_column = node_name; second_column = city's huristic
           </li>
         </ol>
-        <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="400" height="300">
+        <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="500" height="400">
         <img style="float:left" src="images/data_astar_heuristic.png" alt="algorithms" width="500" height="400">
       </li>
       <li>
