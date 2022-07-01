@@ -202,11 +202,19 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py --arguments
 ```
 
-
-
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-
-
+*AStar
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/Astar/main.py --start s --goal f
+```
+*Bellman-Ford
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/Astar/main.py --start 1
 
 2- for BFS-DFS, SEARCH, SORT
 ```sh
