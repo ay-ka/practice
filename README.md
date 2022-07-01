@@ -234,11 +234,9 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
 
 
 
-<ul>
-  <li>
-    <b>Take arguments list</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use                                --help:
-  </li>
-</ul>
+
+<b>Take arguments list</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use                                --help:
+
 
 <b>1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b> <br/>
 ```sh
