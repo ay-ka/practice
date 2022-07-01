@@ -191,31 +191,8 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<ul>
-  <li>
-    <b>arguments</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
-  </li>
-</ul>
 
-```sh
-git clone https://github.com/ay-ka/Algorithms.git
-cd Algorithms
-export PYTHONPATH=$PWD
-python src/<AlgorithmName>/main.py --help
-```
-
-for example for A*:
-
-```sh
-git clone https://github.com/ay-ka/Algorithms.git
-cd Algorithms
-export PYTHONPATH=$PWD
-python src/Astar/main.py --help
-```
-
-<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
-
-<b>Run:</b> there is two wat for running codes:
+<b>Run:</b> there are two ways for running codes:
 
 1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
 ```sh
@@ -247,6 +224,32 @@ python src/<algorithm-directory-name>/main.py  algorithmname --arguments
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
+<img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450"
+
+
+
+<ul>
+  <li>
+    <b>arguments</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+  </li>
+</ul>
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/<AlgorithmName>/main.py --help
+```
+
+for example for A*:
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/Astar/main.py --help
+```
+
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
 
