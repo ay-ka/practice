@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/Algorithms">
-    <img style="float:left" src="images/basic.jpg" alt="evolution" width="600" height="400">
+    <img style="float:left" src="images/basic.jpg" alt="evolution" width="700" height="400">
   </a>
   <h5 align="center">implementing of various algorithm included informed graph  search & uninformed graph search & search methods & sort methods</h5>
 </div>
