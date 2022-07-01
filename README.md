@@ -29,7 +29,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites & Installation</a></li>
-        <li><a href="#How-To-Run">How To Run</a></li
+        <li><a href="#How-To-Run">How To Run</a></li>
       </ul>
     </li>>
     <li><a href="#contributing">Contributing</a></li>
