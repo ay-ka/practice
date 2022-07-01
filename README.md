@@ -44,7 +44,7 @@
   </ol>
 </details>
 
-<br />
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
