@@ -29,9 +29,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites & Installation</a></li>
+        <li><a href="#How-To-Run">How To Run</a></li
       </ul>
-    </li>
-    <li><a href="#usage">How to Run</a></li>
+    </li>>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -75,7 +75,7 @@ this section explain instructions which should be followed to setting up the pro
    <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
-### How to Run
+### How To Run
 
 ```sh
 git clone https://github.com/ay-ka/WordCloud.git
