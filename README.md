@@ -17,7 +17,6 @@
 
 <br />
 <br />
-<br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
