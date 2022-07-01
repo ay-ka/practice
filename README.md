@@ -204,13 +204,16 @@ export PYTHONPATH=$PWD
 python src/<AlgorithmName>/main.py --help
 ```
 
+for example for A*:
 
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/<AlgorithmName>/main.py
+python src/Astar/main.py --help
 ```
+
+<img style="float:left" src="images/data.png" alt="algorithms" width="450" height="350">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
