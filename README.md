@@ -84,6 +84,16 @@ this section explain instructions which should be followed to setting up the pro
   <li>install all library specified whithin requirement.txt on  your virtual env</li>
   <li>if you are running codes on <b>linux</b> or <b>WSL</b>, you should have a <b>graphical interfece</b> installed on your system. for example for WSl          --> <b>GWSL</b> can be used
   </li>
+  <li>
+    Benchmark used for evaluating algorithms are listed below. for new Benchmarks manipulate Cost Function of algorithms inside codes.
+    <ul>
+      <li>ACO --> TSP</li>
+      <li>ACOR --> Sphere</li>
+      <li>Genetic --> Sphere</li>
+      <li>PSO --> Sphere</li>
+      <li>GWO --> Sphere</li>
+    </ul>
+  </li>
 </ul>
 
 ### How To Run
