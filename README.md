@@ -213,7 +213,7 @@ python src/<algorithm-directory-name>/main.py --arguments
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py  algorithmname --arguments
+python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --arguments
 ```
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
@@ -234,6 +234,7 @@ python src/<algorithm-directory-name>/main.py  algorithmname --arguments
   </li>
 </ul>
 
+1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra: <br/>
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
@@ -249,6 +250,22 @@ cd Algorithms
 export PYTHONPATH=$PWD
 python src/Astar/main.py --help
 ```
+
+2- for BFS-DFS, SEARCH, SORT
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py ALGORITHMNAME(uppercase) --help
+```
+
+
+for example for BFS & DFS:
+
+<img style="float:left" src="images/bfs_help.png" alt="algorithms" width="450" height="450">
+<img style="float:left" src="images/dfs_help.png" alt="algorithms" width="450" height="450"
+
 
 <img style="float:left" src="images/args.png" alt="algorithms" width="750" height="450">
 
