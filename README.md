@@ -63,7 +63,7 @@ this section explain instructions which should be followed to setting up the pro
 ### Prerequisites
 
 <ul>
-  <li>
+<li>
     there is a json format file inside src/data named cs_stack. it is initially used as sample data. it can be replaced by any other json format file           extracted from telegram. for doing so:
     <ol>
       <li>enter a chat\channel\group in your telegram. on right corner of page there is menu; open it</li>
@@ -71,9 +71,9 @@ this section explain instructions which should be followed to setting up the pro
       <li>on opened menu click on export</li>
       <li>after finishing download, replace it with cs_stack</li>
     <ol>
-  </li>
-  <li>install all library specified whithin requirement.txt</li>
-  <li>inside data directory there is file named BHoma which is used initially as a base font, it can be replaced by any font file with .ttf format</li>
+ </li>
+ <li>install all library specified whithin requirement.txt</li>
+ <li>inside data directory there is file named BHoma which is used initially as a base font, it can be replaced by any font file with .ttf format</li>
 </ul>
 
 ### How to Run
