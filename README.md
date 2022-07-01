@@ -92,10 +92,28 @@ this section explain instructions which should be followed to setting up the pro
 <b>Run:</b> For all algorithms:
 
 ```sh
-git clone https://github.com/ay-ka/Algorithms.git
-cd Algorithms
+git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
+cd Evolutionary-Algorithms
 export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py --arguments
+```
+
+for example for Genetic:
+
+```sh
+git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
+cd Evolutionary-Algorithms
+export PYTHONPATH=$PWD
+python src/Genetic/main.py --pop_size ? --otherarguments
+```
+
+for example for GWO
+
+```sh
+git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
+cd Evolutionary-Algorithms
+export PYTHONPATH=$PWD
+python src/GWO/main.py --pop_size ? --otherarguments
 ```
 
 
@@ -105,11 +123,23 @@ python src/<algorithm-directory-name>/main.py --arguments
 
 <b>For all algorithms</b> <br/>
 ```sh
-git clone https://github.com/ay-ka/Algorithms.git
-cd Algorithms
+git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
+cd Evolutionary-Algorithms
 export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py --help
 ```
+
+for example for ACO:
+
+```sh
+git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
+cd Evolutionary-Algorithms
+export PYTHONPATH=$PWD
+python src/ACO/main.py --help
+```
+
+
+
 
 
 <!-- CONTRIBUTING -->
