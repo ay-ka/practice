@@ -12,7 +12,7 @@
   <a href="https://github.com/ay-ka/Algorithms">
     <img style="float:left" src="images/algorithm.png" alt="algorithms" width="800" height="500">
   </a>
-  <h4 align="center">implementing of various algorithm included informed graph  search & uninformed graph search & search methods & sort methods</h4>
+  <h5 align="center">implementing of various algorithm included informed graph  search & uninformed graph search & search methods & sort methods</h5>
 </div>
 
 <br />
