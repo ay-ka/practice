@@ -64,7 +64,7 @@ this section explain instructions which should be followed to setting up the pro
 
 <ul>
   <li>
-    there is a json format file inside src/data named cs_stack. it is initially used as sample data. it can be replaced by any other json format file           extracted from telegram. for doing so:
+    there is a json format file inside <b>src/data</b> named <b>cs_stack</b>. it is initially used as sample data. it can be replaced by any other json         format file extracted from <b>telegram</b>. for doing so:
     <ol>
       <li>enter a chat\channel\group in your telegram. on right corner of page there is menu; open it</li>
       <li>on opened menu, click on export chat history</li>
