@@ -219,15 +219,13 @@ python src/Astar/main.py --help
   <li>
     <b>Run:</b> there is two wat for running codes:
     <ol type="1">
-      <li>
+      1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:
       ```sh
       git clone https://github.com/ay-ka/Algorithms.git
       cd Algorithms
       export PYTHONPATH=$PWD
-      python src/Astar/main.py 
+      python src/<AlgorithmName>/main.py 
       ```
-      </li>
-      <li></li>
     </ol>
   </li>
 </ul>
