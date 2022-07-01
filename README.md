@@ -81,73 +81,8 @@ this section explain instructions which should be followed to setting up the pro
 ### Prerequisites-Installation
 
 <ul>
-  <li>
-    there are text files named <b>data.txt</b> inside all algoritrhms directory. these <b>data.txt</b> are initially used as sample data. it can be             replaced by any other <b>data.txt</b> (inside <b>A*</b> these files are <b>data_huristics.txt</b> and <b>data_distances.txt</b>) file if it adopt           following patterns:
-    <ol type="1">
-      <li>
-        <b>A*</b>
-        <ol type="1">
-          <li>
-            <b>data_distances.txt:</b> inside this file pattern is -->  <br/>
-            first_column = first_node_name; second_column = second_node_name (connected to first node); third_column = distances
-            </b>
-          </li>
-          <li>
-            <b>data_huristics.txt:</b> inside this file pattern is -->  first_column = node_name; second_column = city's huristic
-          </li>
-        </ol>
-        <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="450" height="400">
-        <img style="float:left" src="images/data_astar_heuristic.png" alt="algorithms" width="450" height="400">
-      </li>
-      <li>
-        <b>BFS-DFS</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
-          </li>
-        </ol>
-        <img style="float:left" src="images/data_wd.png" alt="algorithms" width="450" height="350">
-      </li>
-      <li>
-        <b>Bellman-Ford</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
-          </li>
-        </ol>
-        <img style="float:left" src="images/data.png" alt="algorithms" width="450" height="350">
-      </li>
-        <li>
-        <b>Dijekstra</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
-          </li>
-        </ol>
-        <img style="float:left" src="images/data.png" alt="algorithms" width="450" height="350">
-      </li>
-      <li>
-        <b>LinkedList</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = node_name; second_column = node_value 
-          </li>
-        </ol>
-        <img style="float:left" src="images/data_linkedlist.png" alt="algorithms" width="450" height="350">
-      </li>
-      <li>
-        <b>UCS</b>
-        <ol type="1">
-          <li>
-              <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
-          </li>
-        </ol>
-        <img style="float:left" src="images/data.png" alt="algorithms" width="450" height="350">
-      </li>
-    </ol>
-  </li>
-    
   <li>install all library specified whithin requirement.txt on  your virtual env</li>
+  <li>if you are running codes on linux or WSL, you should have a <b>graphical interfece</b> installed on your system. for WSl --> GWSL can be used</li>
 </ul>
 
 ### How To Run
