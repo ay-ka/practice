@@ -123,13 +123,13 @@ this section explain instructions which should be followed to setting up the pro
     there are text files named <b>data.txt</b> inside all algoritrhms directory. these <b>data.txt</b> are initially used as sample data. it can be             replaced by any other <b>data.txt</b> (inside <b>A*</b> these files are <b>data_huristics.txt</b> and <b>data_distances.txt</b>) file if it adopt           following patterns:
     <ol type="1">
       <li>
-        <ol>
+        <ol type="1">
           <li>
             <b>data_distances.txt:</b> inside this file pattern is -->  first_column = first_city; second_column = second_city; third_column =                            distances
             </b>
           </li>
           <li>
-            
+            <b>data_distances.txt:</b> inside this file pattern is -->  first_column = first_city; second_column = second_city; third_column =                            distances
           </li>
         </ol>
       </li>
