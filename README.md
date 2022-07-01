@@ -80,7 +80,7 @@ this section explain instructions which should be followed to setting up the pro
 after following <b>Prerequisites</b> section steps and setting up all necessary dependencies follow below steps to run program:
 
 <ul>
-  <li><b>activate</b> your vertual env whitin which you set up Prerequisites steps, then <b>clone this repo on your local machine inside that env</b></li>
+  <li><b>clone this repo on your local machine inside that env</b></li>
   <li>
     <p>
       <b>ADD TO PYTHONPATH:</b>
