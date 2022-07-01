@@ -44,13 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-<div align="center">
-</div>
-  
-A word cloud (also known as a tag cloud) is a visual representation of words. Cloud creators are used to highlight popular words and phrases based on frequency and relevance. They provide you with quick and simple visual insights that can lead to more in-depth analyses.
-
-<h6>(*** important: the project mainly developed for persian words but with selecting proper english font & adding proper stopwords, it works for          english data too)</h6>
+..............
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
