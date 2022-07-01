@@ -217,7 +217,18 @@ python src/Astar/main.py --help
 
 <ul>
   <li>
-    <b>Run</b> All algorithms take various argument which can be passed through terminal. to get list of all argument used in algorithm use --help:
+    <b>Run:</b> there is two wat for running codes:
+    <ol type="1">
+      <li>
+      ```sh
+      git clone https://github.com/ay-ka/Algorithms.git
+      cd Algorithms
+      export PYTHONPATH=$PWD
+      python src/Astar/main.py 
+      ```
+      </li>
+      <li></li>
+    </ol>
   </li>
 </ul>
 
