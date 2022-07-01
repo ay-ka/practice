@@ -12,7 +12,7 @@
   <a href="https://github.com/ay-ka/Algorithms">
     <img style="float:left" src="images/basic.jpg" alt="evolution" width="700" height="400">
   </a>
-  <h5 align="center">implementing of various algorithm included informed graph  search & uninformed graph search & search methods & sort methods</h5>
+  <h5 align="center">implementation of various evolutionary & swarm intelligence methods including ACO, ACOR, GENETIC, PSO, GWO, NEAT</h5>
 </div>
 
 <br />
