@@ -134,6 +134,8 @@ this section explain instructions which should be followed to setting up the pro
             <b>data_huristics.txt:</b> inside this file pattern is -->  first_column = node_name; second_column = city's huristic
           </li>
         </ol>
+        <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="200" height="200">
+        <img style="float:left" src="images/data_astar_huristics.png" alt="algorithms" width="200" height="200">
       </li>
       <li>
         <b>BFS-DFS</b>
