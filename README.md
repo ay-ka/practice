@@ -215,6 +215,7 @@ git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
 python src/Astar/main.py --start 1
+```
 
 2- for BFS-DFS, SEARCH, SORT
 ```sh
