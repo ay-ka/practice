@@ -141,7 +141,7 @@ this section explain instructions which should be followed to setting up the pro
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
 export PYTHONPATH=$PWD
-python src/<AlgorithmNmae>/main.py
+python src/<AlgorithmName>/main.py
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
