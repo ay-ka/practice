@@ -263,8 +263,8 @@ python src/<algorithm-directory-name>/main.py ALGORITHMNAME(uppercase) --help
 
 for example for BFS & DFS:
 
-<img style="float:left" src="images/bfs_help.png" alt="algorithms" width="450" height="450">
-<img style="float:left" src="images/dfs_help.png" alt="algorithms" width="450" height="450"
+<img src="images/bfs_help.png" alt="algorithms" width="50" height="800>
+<img style="float:left" src="images/dfs_help.png" alt="algorithms" width="50" height="800"
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
