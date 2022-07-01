@@ -46,7 +46,6 @@
 
 
 <div align="center">
-<img src="images/screenshot.png" alt="wordcloud" width="300" height="300">
 </div>
   
 A word cloud (also known as a tag cloud) is a visual representation of words. Cloud creators are used to highlight popular words and phrases based on frequency and relevance. They provide you with quick and simple visual insights that can lead to more in-depth analyses.
