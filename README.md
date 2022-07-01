@@ -73,7 +73,7 @@ this section explain instructions which should be followed to setting up the pro
     </ol>
  </li>
  <li>install all library specified whithin requirement.txt</li>
- <li>inside data directory there is file named BHoma.ttf which is used initially as a base font, it can be replaced by any font file with .ttf format</li>
+ <li>inside data directory there is file named BHoma.ttf which is used initially as a base font, it can be replaced by any other font file with .ttf format</li>
 </ul>
 
 ### How to Run
