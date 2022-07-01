@@ -231,6 +231,43 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   <li>BFS-DFS: BFS, DFS</li>
 </ol>
 
+for example for BFS:
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/BFS-DFS/main.py BFS --start ? --goal ?
+```
+
+for example for DFS:
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/BFS-DFS/main.py DFS --start ? --goal ?
+```
+
+for example for merge-sort:
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/Sort/main.py MERGE ---data 2 3 5 2 1 4 5
+```
+
+
+
+for example for binary-search:
+
+```sh
+git clone https://github.com/ay-ka/Algorithms.git
+cd Algorithms
+export PYTHONPATH=$PWD
+python src/Search/main.py BINARY ---data 2 3 5 15 18 45 --value 15
+```
 
 
 
