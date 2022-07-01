@@ -177,6 +177,15 @@ this section explain instructions which should be followed to setting up the pro
       </li>
     </ol>
   </li>
+  
+  <img style="float:left" src="images/data_astar_distances.png" alt="algorithms" width="100" height="100">
+  <img style="float:left" src="images/data_astar_huristic.png" alt="algorithms" width="100" height="100">
+  
+  <img style="float:left" src="images/data.png" alt="algorithms" width="100" height="100">
+  
+  <img style="float:left" src="images/data_linkedlist.png" alt="algorithms" width="100" height="100">
+  
+    
   <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
