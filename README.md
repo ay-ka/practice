@@ -89,7 +89,7 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<b>Run:</b> For all algorithms:
+<b>Run: For all algorithms</b> 
 
 ```sh
 git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
