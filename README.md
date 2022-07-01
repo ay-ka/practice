@@ -144,6 +144,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
           </li>
         </ol>
+        <img style="float:left" src="images/data_wd.png" alt="algorithms" width="200" height="200">
       </li>
       <li>
         <b>Bellman-Ford</b>
@@ -152,6 +153,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
           </li>
         </ol>
+        <img style="float:left" src="images/data.png" alt="algorithms" width="200" height="200">
       </li>
         <li>
         <b>Dijekstra</b>
@@ -160,6 +162,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
           </li>
         </ol>
+        <img style="float:left" src="images/data.png" alt="algorithms" width="200" height="200">
       </li>
       <li>
         <b>LinkedList</b>
@@ -168,6 +171,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = node_name; second_column = node_value 
           </li>
         </ol>
+        <img style="float:left" src="images/data_linkedlist.png" alt="algorithms" width="200" height="200">
       </li>
       <li>
         <b>UCS</b>
@@ -176,6 +180,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node); third_column = distances
           </li>
         </ol>
+        <img style="float:left" src="images/data.png" alt="algorithms" width="200" height="200">
       </li>
     </ol>
   </li>
