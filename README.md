@@ -250,7 +250,8 @@ python src/<algorithm-directory-name>/main.py  ALGORITHMNAME(uppercase) --argume
   </li>
 </ul>
 
-1- <b>for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b> <br/>
+<b>1- for AStar, UCS, LinkedList, Bellman-Ford, Dijsktra:</b>
+<br/>
 ```sh
 git clone https://github.com/ay-ka/Algorithms.git
 cd Algorithms
