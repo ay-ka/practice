@@ -12,7 +12,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/wordcloud.jpg" alt="wordcloud" width="500" height="300">
   </a>
-  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance</h3>
+  <h3 align="center">visual representation of words used to highlight popular words and phrases based on frequency and relevance (Persian Version)</h3>
 </div>
 
 <br />
@@ -56,15 +56,13 @@ A word cloud (also known as a tag cloud) is a visual representation of words. Cl
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+this section explain instructions which should be followed to setting up the project. it is easier to run scripts from terminal by passing argument with the help of argparse library and this project also follow this pattern
 
 ### Prerequisites
 
-..............
+*** there is a json format file inside src/data named cs_stack. it is used a data 
 
 ### How to Run
 
@@ -76,7 +74,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
