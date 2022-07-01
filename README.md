@@ -144,7 +144,7 @@ this section explain instructions which should be followed to setting up the pro
               <b>data.txt:</b> inside this file pattern is -->  <br/>first_column = first_node_name; second_column = second_node_name (connected to first                                  node)
           </li>
         </ol>
-        <img style="float:left" src="images/data_wd.png" alt="algorithms" width="200" height="200">
+        <img style="float:left" src="images/data_wd.png" alt="algorithms" width="550" height="400">
       </li>
       <li>
         <b>Bellman-Ford</b>
