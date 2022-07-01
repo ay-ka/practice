@@ -54,14 +54,14 @@
       <li><b>Uniform Cost Search</b></li>
       <li><b>Bellman Ford</b></li>
       <li><b>Dijekstra</b></li>
-    <ul>
+    </ul>
   </li>
   <li>
     Search 
     <ul>
       <li><b>Binary Search</b></li>
       <li><b>Fibonachi Search</b></li>
-    <ul>
+    </ul>
   </li>
    <li>
      Sort
@@ -69,9 +69,10 @@
         <li><b>Merge Sort</b></li>
         <li><b>Quick Sort</b></li>
         <li><b>Heap Sort</b></li>
-      <ul>
+      </ul>
    </li>
    <li>
+     Linked List
      <ul>
         <li><b>Linked List</b></li>
      </ul>
