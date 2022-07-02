@@ -50,7 +50,7 @@
 
 <ul>
   <li>
-     <b>MADDPG (Multi-Agent Deep Deterministic Policy Gradient):</b> MADDPG, or Multi-agent DDPG, extends DDPG into a multi-agent policy gradient algorithm                                                                       where decentralized agents learn a centralized critic based on the observations and                                                                         actions of all agents.
+    <b><a href="https://arxiv.org/abs/1706.02275">MADDPG (Multi-Agent Deep Deterministic Policy Gradient)</a>:</b> MADDPG, or Multi-agent DDPG, extends                                                       DDPG into a multi-agent policy gradient algorithm where decentralized agents learn a centralized critic                                                     based on the observations and actions of all agents.
   </li>
   <li>
      <b>QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning):</b> QMIX is a multi agent deep reinforcement learning              methods based on Q-learning and value-defactorazations; novel value-based method that can train decentralised policies in a centralised end-to-            end fashion
