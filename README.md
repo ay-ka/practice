@@ -68,6 +68,8 @@
   <li>
     <b>Genetic:</b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the                     process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next                         generation. 
   </li>
+  <br/>
+  <b>Benchmark:<a href="https://robosuite.ai/assets/whitepaper.pdf">Robosuite</a>:</b> robosuite is a simulation framework for robot learning powered by              the MuJoCo physics engine. It offers a modular design for creating robotic tasks as well as a suite of benchmark environments for reproducible              research.
 </ul>
 
 
