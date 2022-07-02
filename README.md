@@ -253,7 +253,7 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
   
 <b>Run:</b> 
   
-<b><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG></b>
+<b><h3><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG></h3></b>
 
 
 ```sh
@@ -284,9 +284,7 @@ python src/CEM_MADDPG/main.py PressurePlate --help
 
 
   
-<b><ROBOSUITE_MADDPG (only robosuite)></b> 
-
-<h6>ROBOSUITE Benchmark</h6>
+<b><h3><ROBOSUITE_MADDPG (only robosuite)></h3></b> 
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -305,9 +303,9 @@ python src/ROBOSUITE_MADDPG/main.py RobotManipulator --help
 ```
 
 
-<b><QMIX_NEAT (only RWARE)></b> 
+<b><h3><QMIX_NEAT (only RWARE)></h3></b> 
   
-<h3>for QMIX arguments</h3>
+<h4>for QMIX arguments</h4
 
 <h6>RWARE Benchmark</h6>
 
@@ -327,7 +325,7 @@ export PYTHONPATH=$PWD
 python src/QMIX_NEAT/main.py RWARE --help
 ```
 
-<h3>for NEAT argument</h3>
+<h4>for NEAT argument</h4>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
