@@ -51,12 +51,12 @@
 <ul>
   <li>
     <b><a href="https://arxiv.org/abs/1706.02275">MADDPG (Multi-Agent Deep Deterministic Policy Gradient)</a>:</b> MADDPG, or Multi-agent DDPG, extends                                                       DDPG into a multi-agent policy gradient algorithm where decentralized agents learn a centralized critic                                                     based on the observations and actions of all agents.
-  </li>https://arxiv.org/abs/1803.11485
+  </li
   <li>
      <b><a href="https://arxiv.org/abs/1803.11485">QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning)</a>:</b> QMIX                                                    is a multi agent deep reinforcement learning methods based on Q-learning and value-defactorazations;                                                        novel value-based method that can train decentralised policies in a centralised end-to-end fashion
   </li>
   <li>
-     <b>NEAT (NeuroEvolution of Augmenting Topology):</b> NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates                                                                   artificial neural networks
+    <b><a href="https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf">NEAT (NeuroEvolution of Augmenting Topology)</a>:</b> NEAT (NeuroEvolution of                                                                Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks
   </li>
   <li>
     <b>CEM (Cross Enthropy Method): </b> The cross-entropy method is a versatile heuristic tool for solving difficult estimation and optimization problems,                                          based on Kullback–Leibler (or cross-entropy)
