@@ -283,7 +283,7 @@ python src/CEM_MADDPG/main.py PressurePlate --help
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RobotManipulator --arguments
+python src/<algorithm-directory-name>/main.py RobotManipulator --help
 ```
 
 for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
@@ -292,11 +292,13 @@ for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherarguments ?
+python src/ROBOSUITE_MADDPG/main.py RobotManipulator --help
 ```
 
 
 <b><QMIX_NEAT (only RWARE)></b> 
+  
+<h3>for QMIX arguments</h3>
 
 <h6>RWARE Benchmark</h6>
 
@@ -304,18 +306,27 @@ python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherargument
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RWARE --arguments
+python src/<algorithm-directory-name>/main.py RWARE --help
 ```
-
+  
 for example for QMIX_NEAT for RWARE Benchmark:
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
+python src/QMIX_NEAT/main.py RWARE --help
 ```
 
+<h3>for NEAT argument</h3>
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+cd src/QMIX_NEAT/neat
+open config.txt file (for more information refer to <a href="https://neat-python.readthedocs.io/en/latest/">Repo</a>
+```
 
 
 
