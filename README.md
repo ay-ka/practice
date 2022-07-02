@@ -94,19 +94,19 @@
 
 <ul>
   <li>
-     <b>EA - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <b>Genetic Algorithm</b> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>, apllied on <b>RWARE, MPE, PRESSUREPLATE</b>
+     <b>ERL_MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <b>Genetic Algorithm</b> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>, apllied on <b>RWARE, MPE, PRESSUREPLATE</b>
   </li>
   <li>
-     <b>EA - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <b>Genetic Algorithm</b> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>, apllied on <b>Robosuite</b>
+     <b>ROBOSUITE_MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <b>Genetic Algorithm</b> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>, apllied on <b>Robosuite</b>
   </li>
   <li>
-    <b>NEAT - QMIX:</b> This project is about Implementing <b>QMIX</b> and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">Repo</a> and evaluate on <b>RWARE</b> benchmark
+    <b>NEAT_QMIX:</b> This project is about Implementing <b>QMIX</b> and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">Repo</a> and evaluate on <b>RWARE</b> benchmark
   </li>
     <li>
     <b>CEM-MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CEM</b> Algorithms as well as combining these two algorithms;                         and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
   </li>
   <li>
-     <b>CMA-ES - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CAM-ES</b> Algorithms as well as combining these two                                       algorithms and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
+     <b>CMAES_MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CAM-ES</b> Algorithms as well as combining these two                                       algorithms and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
   </li>
 </ul>
 
