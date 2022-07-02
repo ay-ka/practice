@@ -143,32 +143,41 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<b>Run: For all algorithms</b> 
+<b>Run: For CEM_MADDPG & CMAES_MADDPG</b> 
 
 ```sh
-git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
-cd Evolutionary-Algorithms
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
 export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py --arguments
 ```
 
-for example for Genetic:
+for example for CEM_MADDPG:
 
 ```sh
-git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
-cd Evolutionary-Algorithms
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/Genetic/main.py --pop_size ? --otherarguments ?
+python src/CEM_MADDPG/main.py --popsize ? --otherarguments ?
 ```
 
-for example for GWO
+for example for CMAES_MADDPG:
 
 ```sh
-git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
-cd Evolutionary-Algorithms
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/GWO/main.py --pop_size ? --otherarguments ?
+python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
 ```
+
+
+
+
+
+
+
+
+
 
 
 <h3><b>Take arguments list: </b></h3> All algorithms take various argument which can be passed through terminal. to get list of all argument used in                                             algorithm use --help: <br/><br/>
