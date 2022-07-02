@@ -305,7 +305,7 @@ python src/ROBOSUITE_MADDPG/main.py RobotManipulator --help
 
 <b><h3><QMIX_NEAT (only RWARE)></h3></b> 
   
-<h4>for QMIX arguments</h4
+<h4>for QMIX arguments</h4>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
