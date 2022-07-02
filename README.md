@@ -143,7 +143,7 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<b>Run: For CEM_MADDPG & CMAES_MADDPG</b> 
+<b>Run: <CEM_MADDPG & CMAES_MADDPG> </b> 
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -170,7 +170,7 @@ export PYTHONPATH=$PWD
 python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
 ```
 
-<b>For example <ERL_MADDPG></b> 
+<b>ERL_MADDPG></b> 
 
 <h6>RWARE Benchmark</h6>
 
