@@ -75,7 +75,7 @@
 
 <ul>
   <li>
-    <b><a href="https://robosuite.ai/assets/whitepaper.pdf">Robosuite</a>:</b> 
+    <b><a href="https://robosuite.ai/">Robosuite (Robotic Manipulator Benchmark)</a>:</b> 
   </li
   <li>
     <b><a href="https://github.com/uoe-agents/robotic-warehouse">RWARE (Robotic Warehouse; A multi-agent reinforcement learning environment)</a>:</b>
