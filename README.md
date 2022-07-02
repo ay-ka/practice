@@ -122,19 +122,22 @@ this section explain instructions which should be followed to setting up the pro
 ### Prerequisites-Installation
 
 <ul>
-  <li>install all library specified whithin requirement.txt on  your virtual env</li>
-  <li>if you are running codes on <b>linux</b> or <b>WSL</b>, you should have a <b>graphical interfece</b> installed on your system. for example for WSl          --> <b>GWSL</b> can be used
+  <li>
+    Robosuite Instalation: for installing Robosuite follow : <a href="https://robosuite.ai/docs/installation.html">Robosuite</a>
   </li>
   <li>
-    Benchmark used for evaluating algorithms are listed below. for new Benchmarks manipulate Cost Function of algorithms inside codes.
-    <ul>
-      <li>ACO --> TSP</li>
-      <li>ACOR --> Sphere</li>
-      <li>Genetic --> Sphere</li>
-      <li>PSO --> Sphere</li>
-      <li>GWO --> Sphere</li>
-    </ul>
+    RWARE Installation: for installing RWARE follow : <a href="https://github.com/semitable/robotic-warehouse">RWARE</a>
   </li>
+   <li>
+    MPE Installation: for installing MPE (Pettingzoo Library is used) follow : <a href="https://github.com/Farama-Foundation/PettingZoo">Pettingzoo</a>
+  </li>
+  <li>
+    PressurePlate Installation: for installing PressurePlate follow : <a href="https://github.com/uoe-agents/pressureplate">PressurePlate</a>
+  </li>
+  <li>
+    NEAT Installation: for installing NEAT follow : <a href="https://neat-python.readthedocs.io/en/latest/">NEAT</a>
+  </li>
+  <li>install all library specified whithin requirement.txt on  your virtual env</li>
 </ul>
 
 ### How To Run
