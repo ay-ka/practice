@@ -307,13 +307,11 @@ python src/ROBOSUITE_MADDPG/main.py RobotManipulator --help
   
 <h4>for QMIX arguments</h4
 
-<h6>RWARE Benchmark</h6>
-
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RWARE --help
+python src/<algorithm-directory-name>/main.py <benchmark_name> --help
 ```
   
 for example for QMIX_NEAT for RWARE Benchmark:
@@ -332,8 +330,9 @@ git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
 cd src/QMIX_NEAT/neat
-open config.txt file (for more information refer to <a href="https://neat-python.readthedocs.io/en/latest/">Repo</a>
+open config.txt file 
 ```
+(for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/">Repo</a>
 
 
 
