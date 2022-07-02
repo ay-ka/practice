@@ -137,7 +137,7 @@ this section explain instructions which should be followed to setting up the pro
   <li>
     NEAT Installation: for installing NEAT follow : <a href="https://neat-python.readthedocs.io/en/latest/">NEAT</a>
   </li>
-  <li>install all library specified whithin requirement.txt on  your virtual env</li>
+  <li>install all library specified whithin <b>requirement.txt</b> on  your virtual env</li>
 </ul>
 
 ### How To Run
