@@ -193,7 +193,7 @@ python src/CEM_MADDPG/main.py PressurePlate --popsize ? --otherarguments ?
 
 
   
-<b><ROBOSUITE_MADDPG></b> 
+<b><ROBOSUITE_MADDPG (only robosuite)></b> 
 
 <h6>ROBOSUITE Benchmark</h6>
 
@@ -214,6 +214,25 @@ python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherargument
 ```
 
 
+<b><QMIX_NEAT (only RWARE)></b> 
+
+<h6>RWARE Benchmark</h6>
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py RWARE --arguments
+```
+
+for example for QMIX_NEAT for RWARE Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
+```
 
 
 
