@@ -71,7 +71,25 @@
 </ul>
 
 
+:star:<b> Describe Implemented Algorithms</b>
 
+<ul>
+  <li>
+     <b>CEM-MADDPG:</b> 
+  </li>
+  <li>
+     <b>CMA-ES - MADDPG:</b> 
+  </li>
+  <li>
+     <b>Genetic - MADDPG:</b> 
+  </li>
+  <li>
+    <b>MADDPG applied on Robosuite: </b> 
+  </li>
+  <li>
+    <b>NEAT - QMIX:</b> 
+  </li>
+</ul>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
