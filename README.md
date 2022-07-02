@@ -78,14 +78,13 @@
     <b><a href="https://robosuite.ai/assets/whitepaper.pdf">Robosuite</a>:</b> 
   </li
   <li>
-     <b><a href="https://arxiv.org/abs/1803.11485">QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning)</a>:</b> QMIX                                                    is a multi agent deep reinforcement learning methods based on Q-learning and value-defactorazations;                                                        novel value-based method that can train decentralised policies in a centralised end-to-end fashion
+    <b><a href="https://github.com/uoe-agents/robotic-warehouse">RWARE (Robotic Warehouse; A multi-agent reinforcement learning environment)</a>:</b>
   </li>
   <li>
-    <b><a href="https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf">NEAT (NeuroEvolution of Augmenting Topology)</a>:</b> NEAT (NeuroEvolution of                                                                Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks
+    <b><a href="https://github.com/openai/multiagent-particle-envs">MPE (Multi-Agent Particle Environment)</a>:</b>
   </li>
   <li>
-    <b>CEM (Cross Enthropy Method): </b> The cross-entropy method is a versatile heuristic tool for solving difficult estimation and optimization problems,                                          based on Kullback–Leibler (or cross-entropy)
-                                         minimization.
+    <b><a href="https://github.com/uoe-agents/pressureplate">PRESSUREPLATE</a>: </b> 
   </li>
 </ul>
 
