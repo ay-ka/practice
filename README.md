@@ -251,7 +251,9 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
   
 <br/>
   
-<b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG> </b> 
+<b>Run:</b> 
+  
+<b><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG></b>
 
 
 ```sh
