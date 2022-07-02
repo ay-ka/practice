@@ -10,9 +10,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/Algorithms">
-    <img style="float:left" src="images/basic.jpg" alt="evolution" width="700" height="400">
+    <img style="float:left" src="images/rl.png" alt="evolution" width="700" height="400">
   </a>
-  <h5 align="center">Implementation of various Evolutionary & Swarm Intelligence methods including ACO, ACOR, GENETIC, PSO, GWO</h5>
+  <h5 align="center">Implementation of MADDPG (Multi-Agent Deep Deterministic Policy Gradient ) and QMIX (Monotonic Value Function Factorisation for Deep                        Multi-Agent Reinforcement Learning) as well as combining these rl algorithms with EA algorithms (CMAES, CEM, NEAT) & applying to                            different Benchmark such as Robosuite (Robotic Manipulator Benchmark) </h5>
 </div>
 
 <br />
