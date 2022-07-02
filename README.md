@@ -44,7 +44,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<b> Algorithms used in this project </b>
+
+<ul>
+  <li>
+    <b> Algorithms used in this project </b>
+  </li>
+</ul>
 
 <ul>
   <li>
