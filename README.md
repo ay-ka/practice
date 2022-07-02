@@ -172,7 +172,7 @@ python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
 
 <b>For ERL_MADDPG</b> 
 
-<h3>RWARE</h3>
+<h6>RWARE</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -181,7 +181,7 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py RWARE --arguments
 ```
 
-<h3>PressurePlate</h3>
+<h6>PressurePlate</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -190,7 +190,7 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py PressurePlate --arguments
 ```
 
-<h3>MPE</h3>
+<h6>MPE</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
