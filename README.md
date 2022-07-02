@@ -247,7 +247,7 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
   <li><b><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG></b> --> RWARE, MPE, PressurePlate</li>
   <li><b>ROBOSUITE_MADDPG</b> --> Robosuite (in codes use RobotManipulator) </li>
   <li><b>QMIX_NEAT</b> --> RWARE</li>
-<ol>
+</ol>
   
   
 <b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG> </b> 
