@@ -97,7 +97,7 @@
      <b>Genetic - MADDPG:</b> 
   </li>
   <li>
-    <b>MADDPG applied on Robosuite: </b> 
+    <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> from scratch and applying that on <a href="https://robosuite.ai                                                                       /">Robosuite</a> Benchmark
   </li>
   <li>
     <b>NEAT - QMIX:</b> This project is about Implementing <b>QMIX</b> from scratch and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">this repo</a> and evaluate on <b>RWARE</b> benchmark
