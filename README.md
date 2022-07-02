@@ -92,7 +92,7 @@
 
 
 
-:star:<b> Describe Implemented Algorithms</b>
+:star:<b> Describe Implemented projects</b>
 
 <ul>
   <li>
