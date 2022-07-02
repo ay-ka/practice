@@ -251,7 +251,7 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
 cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py BENCHMARK --help
+python src/<algorithm-directory-name>/main.py <benchmark_name> --help
 ```
 
 
