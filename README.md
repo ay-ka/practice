@@ -94,10 +94,7 @@
 
 <ul>
   <li>
-     <b>Genetic - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <Genetic Algorithm> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>
-  </li>
-  <li>
-    <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> and applying that on <a                                                                        href="https://robosuite.ai/">Robosuite benchmark</a>
+     <b>EA - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and combining it with <Genetic Algorithm> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">Evolution-Guided Policy Gradient In Reinforcement Learning</a>
   </li>
   <li>
     <b>NEAT - QMIX:</b> This project is about Implementing <b>QMIX</b> and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">Repo</a> and evaluate on <b>RWARE</b> benchmark
@@ -249,3 +246,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/aidin-kazempour-b647811ba/
 [product-screenshot]: images/screenshot.png
+
+
+
+  <li>
+    <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> and applying that on <a                                                                        href="https://robosuite.ai/">Robosuite benchmark</a>
+  </li>
