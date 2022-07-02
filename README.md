@@ -170,7 +170,7 @@ export PYTHONPATH=$PWD
 python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
 ```
 
-<b>For ERL_MADDPG</b> 
+<b>For example <ERL_MADDPG></b> 
 
 <h6>RWARE</h6>
 
