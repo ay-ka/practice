@@ -100,7 +100,7 @@
     <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> and applying that on <a                                                                        href="https://robosuite.ai/">Robosuite benchmark</a>
   </li>
   <li>
-    <b>NEAT - QMIX:</b> This project is about Implementing <b>QMIX</b> and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">repo</a> and evaluate on <b>RWARE</b> benchmark
+    <b>NEAT - QMIX:</b> This project is about Implementing <b>QMIX</b> and combining with <b>NEAT</b> taken from <a                                                                href="https://neat-python.readthedocs.io">Repo</a> and evaluate on <b>RWARE</b> benchmark
   </li>
     <li>
     <b>CEM-MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CEM</b> Algorithms as well as combining these two algorithms;                         and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
