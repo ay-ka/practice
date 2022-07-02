@@ -75,7 +75,7 @@
 
 <ul>
   <li>
-     <b>CEM-MADDPG:</b> 
+    <b>CEM-MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CEM</b> Algorithms from scratch as well as combining these two algorithms                          and evaluating on <b>RWARE(), MPE(), PRESSUREPLATE()</b> benchmarks
   </li>
   <li>
      <b>CMA-ES - MADDPG:</b> 
