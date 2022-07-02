@@ -63,7 +63,7 @@
                                          minimization.
   </li>
   <li>
-    <b>CMA-ES (Covariance Matrix Adaption - Evolutionary Strategies): (PSO):</b> The CMA-ES (Covariance Matrix Adaptation Evolution Strategy) is an                                             evolutionary algorithm for difficult non-linear non-convex black-box optimisation problems in continuous domain
+    <b><a href="https://en.wikipedia.org/wiki/CMA-ES">CMA-ES (Covariance Matrix Adaption - Evolutionary Strategies): (PSO):</b> The  CMA-ES (Covariance                   Matrix Adaptation Evolution Strategy) is an evolutionary algorithm for difficult non-linear non-convex black-box optimisation problems in                   continuous domain
   </li>
   <li>
     <b>Genetic:</b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the                     process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next                         generation. 
