@@ -143,34 +143,8 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<b>Run: <CEM_MADDPG & CMAES_MADDPG> </b> 
+<b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG> </b> 
 
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py --arguments
-```
-
-for example for CEM_MADDPG:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/CEM_MADDPG/main.py --popsize ? --otherarguments ?
-```
-
-for example for CMAES_MADDPG:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
-```
-
-<b>ERL_MADDPG></b> 
 
 <h6>RWARE Benchmark</h6>
 
@@ -199,7 +173,7 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py MPE --arguments
 ```
 
-for example for ERL_MADDPG for RWARE:
+for example for ERL_MADDPG for RWARE Benchmark:
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -207,8 +181,37 @@ cd Reinforcement-Learning
 export PYTHONPATH=$PWD
 python src/ERL_MADDPG/main.py RWARE --popsize ? --otherarguments ?
 ```
+  
+for example for CEM_MADDPG for PressurePlate Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/CEM_MADDPG/main.py PressurePlate --popsize ? --otherarguments ?
+```
 
 
+  
+<b><ROBOSUITE_MADDPG></b> 
+
+<h6>ROBOSUITE Benchmark</h6>
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py RobotManipulator --arguments
+```
+
+for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherarguments ?
+```
 
 
 
