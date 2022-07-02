@@ -244,22 +244,78 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
 
 
 
-<b>For all algorithms</b> <br/>
-```sh
-git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
-cd Evolutionary-Algorithms
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py --help
-```
+<b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG> </b> 
 
-for example for ACO:
 
 ```sh
-git clone https://github.com/ay-ka/Evolutionary-Algorithms.git
-cd Evolutionary-Algorithms
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
 export PYTHONPATH=$PWD
-python src/ACO/main.py --help
+python src/<algorithm-directory-name>/main.py BENCHMARK --help
 ```
+
+
+for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/ERL_MADDPG/main.py RobotManipulator --help
+```
+  
+for example for CEM_MADDPG for PressurePlate Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/CEM_MADDPG/main.py PressurePlate --help
+```
+
+
+  
+<b><ROBOSUITE_MADDPG (only robosuite)></b> 
+
+<h6>ROBOSUITE Benchmark</h6>
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py RobotManipulator --arguments
+```
+
+for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherarguments ?
+```
+
+
+<b><QMIX_NEAT (only RWARE)></b> 
+
+<h6>RWARE Benchmark</h6>
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/<algorithm-directory-name>/main.py RWARE --arguments
+```
+
+for example for QMIX_NEAT for RWARE Benchmark:
+
+```sh
+git clone https://github.com/ay-ka/Reinforcement-Learning.git
+cd Reinforcement-Learning
+export PYTHONPATH=$PWD
+python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
+```
+
 
 
 
