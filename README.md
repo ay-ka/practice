@@ -45,11 +45,8 @@
 ## About The Project
 
 
-<ul>
-  <li>
-    <b> Algorithms used in this project </b>
-  </li>
-</ul>
+
+:star:<b> Algorithms used in this project </b>
 
 <ul>
   <li>
