@@ -242,13 +242,14 @@ python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
 
 <h3><b>Take arguments list: </b></h3> All algorithms take various argument which can be passed through terminal. to get list of all argument used in                                             algorithm use --help: <br/><br/>
 
-<b>Benchmarks:</b>
+<b>Benchmarks Available:</b>
 <ol type="1">
-  <li><b><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG></b> --> RWARE, MPE, PressurePlate</li>
+  <li><b>CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG</b> --> RWARE, MPE, PressurePlate</li>
   <li><b>ROBOSUITE_MADDPG</b> --> Robosuite (in codes use RobotManipulator) </li>
   <li><b>QMIX_NEAT</b> --> RWARE</li>
 </ol>
   
+<br/>
   
 <b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG> </b> 
 
