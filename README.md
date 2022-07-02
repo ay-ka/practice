@@ -39,7 +39,7 @@
 
 
 
-:star:<b> This project is capstone project of a course from coursera that in thin work, with the assist of tensorflow library, two kind of models are developed </b>
+<b> This project is capstone project of a course from coursera that in thin work, with the assist of tensorflow library, two kind of models are developed </b>
 
 <ol type="1">
   <li>fully connected MLP ueral networks</li>
