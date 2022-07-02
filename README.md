@@ -94,7 +94,7 @@
 
 <ul>
   <li>
-     <b>Genetic - MADDPG:</b> 
+     <b>Genetic - MADDPG:</b> This project is about Implementing <b>MADDPG</b> from scratch and combining it with <Genetic> based on method proposed on <a        href="https://arxiv.org/abs/1805.07917">evolution-guided policy gradient in reinforcement learning</a>
   </li>
   <li>
     <b>MADDPG applied on Robosuite: </b> This project is about Implementing <b>MADDPG</b> from scratch and applying that on <a                                                                        href="https://robosuite.ai/">Robosuite benchmark</a>
