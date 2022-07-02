@@ -332,7 +332,7 @@ export PYTHONPATH=$PWD
 cd src/QMIX_NEAT/neat
 open config.txt file 
 ```
-(for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/">Repo</a>
+(for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/config_file.html">Repo</a>
 
 
 
