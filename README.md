@@ -172,7 +172,7 @@ python src/CMAES_MADDPG/main.py --popsize ? --otherarguments ?
 
 <b>For example <ERL_MADDPG></b> 
 
-<h6>RWARE</h6>
+<h6>RWARE Benchmark</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -181,7 +181,7 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py RWARE --arguments
 ```
 
-<h6>PressurePlate</h6>
+<h6>PressurePlate Benchmark</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
@@ -190,7 +190,7 @@ export PYTHONPATH=$PWD
 python src/<algorithm-directory-name>/main.py PressurePlate --arguments
 ```
 
-<h6>MPE</h6>
+<h6>MPE Benchmark</h6>
 
 ```sh
 git clone https://github.com/ay-ka/Reinforcement-Learning.git
