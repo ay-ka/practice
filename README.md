@@ -12,7 +12,7 @@
   <a href="https://github.com/ay-ka/Algorithms">
     <img style="float:left" src="images/rl.png" alt="evolution" width="700" height="300">
   </a>
-  <h6 align="center"; display: flex; justify-content: center>Implementation of MADDPG (Multi-Agent Deep Deterministic Policy Gradient ) and QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning) as well as combining these rl algorithms with EA algorithms (CMAES, CEM, NEAT) & applying to different Benchmark such as Robosuite (Robotic Manipulator Benchmark) </h6>
+  <h6 align="center"; display: flex; justify-content: center>Implementation of MADDPG (Multi-Agent Deep Deterministic Policy Gradient) and QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning) as well as combining these rl algorithms with EA algorithms (CMAES, CEM, NEAT) & applying to different Benchmark such as Robosuite (Robotic Manipulator Benchmark) </h6>
 </div>
 
 <br />
@@ -50,20 +50,24 @@
 
 <ul>
   <li>
-    <b>Genetic Algorithm: </b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm                                  reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce                                  offspring of the next generation.
+     <b>MADDPG (Multi-Agent Deep Deterministic Policy Gradient):</b> MADDPG, or Multi-agent DDPG, extends DDPG into a multi-agent policy gradient algorithm                                                                       where decentralized agents learn a centralized critic based on the observations and                                                                         actions of all agents.
   </li>
   <li>
-    <b>Partickle Swarm Optimization: (PSO):</b> Particle swarm optimization (PSO) is one of the bio-inspired algorithms and it is a simple one to search                                                   foran optimal solution in the solution space. It is different from other optimization algorithms in such a                                                 way that only the objective function is needed and it is not dependent on the gradient or any differential                                                 form of the objective. It also has very few hyperparameters
+     <b>QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning):</b> QMIX is a multi agent deep reinforcement learning              methods based on Q-learning and value-defactorazations; novel value-based method that can train decentralised policies in a centralised end-to-            end fashion
   </li>
-   <li>
-     <b>Ant Colony Optimization (ACO):</b> The ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems                                                which can be reduced to finding good paths through graphs. Artificial ants stand for multi-agent methods                                                    inspired by the   behavior of real ants. The pheromone-based communication of biological ants is often the                                                  predominant paradigm  used Combinations of artificial ants and local search algorithms have become a method of                                              choice for numerous optimization tasks involving some sort of graph, e.g., vehicle routing and internet routing
-   </li>
-   <li>
-     <b>Ant Colony Optimization Continues Spaces (ACOR):</b> The ACOR algorithm is an Ant Colony Optimization (ACO) extended to continuous domains, and has                                                              been used for training neural network.
-   </li>
-    <li>
-     <b>Gray Wolf Optimization (GWO):</b> Grey wolf optimization algorithm (GWO) is a meta-heuristic optimization technology. Its principle is to imitate                                             the behavior of grey wolves in nature to hunt in a cooperative way. GWO is different from others in terms of                                               model structure. It is a large-scale search method centered on three optimal samples, and which is also the                                                 research object of manY scholars.
-   </li>
+  <li>
+     <b>NEAT (NeuroEvolution of Augmenting Topology):</b> NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates                                                                   artificial neural networks
+  </li>
+  <li>
+    <b>CEM (Cross Enthropy Method): </b> The cross-entropy method is a versatile heuristic tool for solving difficult estimation and optimization problems,                                          based on Kullback–Leibler (or cross-entropy)
+                                         minimization.
+  </li>
+  <li>
+    <b>CMA-ES (Covariance Matrix Adaption - Evolutionary Strategies): (PSO):</b> The CMA-ES (Covariance Matrix Adaptation Evolution Strategy) is an                                             evolutionary algorithm for difficult non-linear non-convex black-box optimisation problems in continuous domain
+  </li>
+  <li>
+    <b>Genetic:</b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the                     process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next                         generation. 
+  </li>
 </ul>
 
 
