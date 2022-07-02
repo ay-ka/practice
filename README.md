@@ -94,12 +94,6 @@
 
 <ul>
   <li>
-    <b>CEM-MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CEM</b> Algorithms from scratch as well as combining these two algorithms                          and evaluating on <b>RWARE(), MPE(), PRESSUREPLATE()</b> benchmarks
-  </li>
-  <li>
-     <b>CMA-ES - MADDPG:</b> 
-  </li>
-  <li>
      <b>Genetic - MADDPG:</b> 
   </li>
   <li>
@@ -107,6 +101,12 @@
   </li>
   <li>
     <b>NEAT - QMIX:</b> 
+  </li>
+    <li>
+    <b>CEM-MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CEM</b> Algorithms from scratch as well as combining these two algorithms                          and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
+  </li>
+  <li>
+     <b>CMA-ES - MADDPG:</b> This project is about Implementing <b>MADDPG</b> and <b>CAM-ES</b> Algorithms from scratch as well as combining these two                                       algorithms and evaluating on <b>RWARE, MPE, PRESSUREPLATE</b> benchmarks (this project need future improvements)
   </li>
 </ul>
 
