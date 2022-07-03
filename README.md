@@ -151,8 +151,8 @@ python src/main.py RWARE --popsize ? --otherarguments ?
 <b>Benchmarks Available:</b>
 <ol type="1">
   <li><b>RWARE (2,3,4 agent)</b></li>
-  <li><b>MPE (2, 3 agent)</b></li>
-  <li><b>PressurePlate (4 , 5, 6 agent)</b></li>
+  <li><b>MPE (2,3 agent)</b></li>
+  <li><b>PressurePlate (4,5,6 agent)</b></li>
 </ol>
   
 <br/>
