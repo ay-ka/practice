@@ -41,10 +41,10 @@
 
 <b> <h5>This project is capstone project of a course from coursera that in thin work, with the assist of tensorflow library, two kind of models are developed </h5></b>
 
-<ol type="1">
-  <li>fully connected MLP ueral networks</li>
-  <li>Convolutional Networks</li>
-<ol>
+1- fully connected MLP ueral networks
+
+2 - Convolutional Networks
+
 
 main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on <b>Test</b>, <b>Eval</b> data
 
