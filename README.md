@@ -91,9 +91,6 @@ this section explain instructions which should be followed to setting up the pro
 
 <ul>
   <li>
-    Robosuite Instalation: for installing Robosuite follow : <a href="https://robosuite.ai/docs/installation.html">Robosuite</a>
-  </li>
-  <li>
     RWARE Installation: for installing RWARE follow : <a href="https://github.com/semitable/robotic-warehouse">RWARE</a>
   </li>
    <li>
@@ -101,9 +98,6 @@ this section explain instructions which should be followed to setting up the pro
   </li>
   <li>
     PressurePlate Installation: for installing PressurePlate follow : <a href="https://github.com/uoe-agents/pressureplate">PressurePlate</a>
-  </li>
-  <li>
-    NEAT Installation: for installing NEAT follow : <a href="https://neat-python.readthedocs.io/en/latest/">NEAT</a>
   </li>
   <li>install all library specified whithin <b>requirement.txt</b> on  your virtual env</li>
 </ul>
