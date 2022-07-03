@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/Qemix">
-    <img style="float:left" src="images/qmix.png" alt="qmix" width="500" height="300">
+    <img style="float:left; margin-left:5px" src="images/qmix.png" alt="qmix" width="500" height="300">
     <img style="float:left" src="images/erl.png" alt="erl" width="300" height="300">
   </a>
   <h6 align="center"; display: flex; justify-content: center> </h6>
