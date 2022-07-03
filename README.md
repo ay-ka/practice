@@ -67,9 +67,6 @@
 
 <ul>
   <li>
-    <b><a href="https://robosuite.ai/">Robosuite (Robotic Manipulator Benchmark)</a>:</b> robosuite is a simulation framework powered by the MuJoCo physics                                                     engine for robot learning. It also offers a suite of benchmark environments for reproducible research.
-  </li
-  <li>
     <b><a href="https://github.com/uoe-agents/robotic-warehouse">RWARE (Robotic Warehouse; A multi-agent reinforcement learning environment)</a>:</b> The                           multi-robot warehouse (RWARE) environment simulates a warehouse with robots moving and delivering requested goods. We based the                             simulator on real-world applications, in which robots pick-up shelves and deliver them to a workstation.
   </li>
   <li>
