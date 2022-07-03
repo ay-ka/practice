@@ -43,6 +43,8 @@
 <h6>for classification of SVHN dataset</h6>
 
 
+<br/>
+
 1- fully connected MLP ueral networks
 
 2 - Convolutional Networks
