@@ -39,7 +39,7 @@
 
 
 
-<b> <h5>This project is capstone project of a course from coursera that in that work, with the assist of tensorflow library, two kind of models are developed for classification of SVHN dataset</h5></b>
+<b> <h5>This work is capstone project of a course from coursera that in that work, with the assist of tensorflow library, two kind of models are developed <br/> for classification of SVHN dataset</h5></b>
 
 1- fully connected MLP ueral networks
 
