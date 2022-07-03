@@ -46,7 +46,7 @@
 2 - Convolutional Networks
 
 
-main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on <b>Test</b>, <b>Eval</b> data
+main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on <b>Test</b> data
 
 
 
