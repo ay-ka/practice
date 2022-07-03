@@ -57,7 +57,7 @@
 <br/>
 
 
-⭐ <b>there is file inside src/SVHN-Classification-CapstoneProject.pdf which all result and methods to build models are put in that</b>
+⭐ <b>there is file inside src/SVHN-Classification-CapstoneProject.pdf which all result and methods to build models are put in there</b>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
