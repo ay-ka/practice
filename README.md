@@ -50,6 +50,8 @@
 2 - Convolutional Networks
 
 
+<br/>
+
 main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on <b>Test</b> data
 
 
