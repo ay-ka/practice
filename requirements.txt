@@ -1,0 +1,8 @@
+numpy==1.21.6
+torch==1.9.0
+torchvision==0.10.0
+einops==0.3.2
+loguru==0.6.0
+gy==0.21.0
+pressureplate==0.0.1
+pettingzoo==1.13.1
