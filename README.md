@@ -10,8 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/Qemix">
-    <img style="float:left" src="images/rl.png" alt="qmix" width="380" height="400">
-    <img style="float:left; margin-left:50px" src="images/ea.png" alt="erl" width="480" height="400">
+    <img style="float:left" src="images/rl.png" alt="qmix" width="400" height="400">
+    <img style="float:left; margin-left:50px" src="images/ea.png" alt="erl" width="500" height="400">
   </a>
   <h6 align="center"; display: flex; justify-content: center>Project is about combining QMIX with Evolutionary algorithms (Genetic) based on <br/>      method proposed in <a href="https://arxiv.org/pdf/1805.07917.pdf">Evolution-Guided Policy Gradient in Reinforcement Learning</a></h6>
 </div>
