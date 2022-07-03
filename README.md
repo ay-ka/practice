@@ -32,6 +32,7 @@
         <li><a href="#How-To-Run">How To Run</a></li>
       </ul>
     </li>
+    <li><a href="#result">Contributing</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -182,8 +183,9 @@ python src/main.py RWARE --help
 (for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/config_file.html">Repo</a>
 
 
+### Result
 
-
+⭐ Result will be added after finishing thesis
 
 <!-- CONTRIBUTING -->
 ## Contributing
