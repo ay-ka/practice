@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ay-ka/Qemix">
-    <img  src="images/rl.png" alt="qmix" width="400" height="600">
+    <img  src="images/rl.png" alt="qmix" width="100" height="100">
     <br/>
     <img  src="images/ea.png" alt="erl" width="400" height="400">
   </a>
