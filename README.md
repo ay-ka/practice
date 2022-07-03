@@ -53,10 +53,11 @@
      <b><a href="https://arxiv.org/abs/1803.11485">QMIX (Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning)</a>:</b> QMIX                                                    is a multi agent deep reinforcement learning methods based on Q-learning and value-defactorazations;                                                        novel value-based method that can train decentralised policies in a centralised end-to-end fashion
   </li>
   <li>
-    <b>Genetic:</b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the                     process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next                         generation. 
+    <b><a href="https://arxiv.org/pdf/1805.07917.pdf">Evolutionary-Guided Policy Gradient in Reinforcement Learning: </a></b> hybrid algorithm that                                             leverages the population of an EA to provide diversified data to train an RL agent, and reinserts the RL agent into the                                     EA population periodically to inject gradient information into the EA. ERL inherits EA’s ability of temporal credit                                         assignment with a fitness metric, effective exploration with a diverse set of policies, and stability of a population-                                     based approach and complements it with off-policy DRL’s ability to leverage gradients for
+                                    higher sample efficiency and faster learning
   </li>
   <li>
-    <b><a href="https://arxiv.org/pdf/1805.07917.pdf">Evolutionary-Guided Policy Gradient in Reinforcement Learning</a></b>
+    <b>Genetic:</b> A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the                     process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next                         generation. 
   </li>
   <br/>
 </ul>
