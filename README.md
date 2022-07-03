@@ -105,195 +105,80 @@ this section explain instructions which should be followed to setting up the pro
 ### How To Run
 
 
-<b>Run: <CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG> </b> 
+<b>Run: </b> 
 
 
 <h6>RWARE Benchmark</h6>
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RWARE --arguments
+python src/main.py RWARE --arguments
 ```
 
 <h6>PressurePlate Benchmark</h6>
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py PressurePlate --arguments
+python src/main.py PressurePlate --arguments
 ```
 
 <h6>MPE Benchmark</h6>
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py MPE --arguments
+python src/main.py MPE --arguments
 ```
 
-for example for ERL_MADDPG for RWARE Benchmark:
+for example:
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/ERL_MADDPG/main.py RWARE --popsize ? --otherarguments ?
+python src/main.py RWARE --popsize ? --otherarguments ?
 ```
   
-for example for CEM_MADDPG for PressurePlate Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/CEM_MADDPG/main.py PressurePlate --popsize ? --otherarguments ?
-```
-
-
-  
-<b><ROBOSUITE_MADDPG (only robosuite)></b> 
-
-<h6>ROBOSUITE Benchmark</h6>
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RobotManipulator --arguments
-```
-
-for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/ROBOSUITE_MADDPG/main.py RobotManipulator --popsize ? --otherarguments ?
-```
-
-
-<b><QMIX_NEAT (only RWARE)></b> 
-
-<h6>RWARE Benchmark</h6>
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RWARE --arguments
-```
-
-for example for QMIX_NEAT for RWARE Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/QMIX_NEAT/main.py RWARE --popsize ? --otherarguments ?
-```
-
-
-
-
-
 
 
 <h3><b>Take arguments list: </b></h3> All algorithms take various argument which can be passed through terminal. to get list of all argument used in                                             algorithm use --help: <br/><br/>
 
 <b>Benchmarks Available:</b>
 <ol type="1">
-  <li><b>CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG</b> --> RWARE, MPE, PressurePlate</li>
-  <li><b>ROBOSUITE_MADDPG</b> --> Robosuite (in codes use RobotManipulator) </li>
-  <li><b>QMIX_NEAT</b> --> RWARE</li>
+  <li><b>RWARE</b></li>
+  <li><b>MPE</b></li>
+  <li><b>PressurePlate</b></li>
 </ol>
   
 <br/>
   
-<b>Run:</b> 
-  
-<b><h3><CEM_MADDPG & CMAES_MADDPG & ERL_MADDPG & ROBOSUITE_MADDPG></h3></b>
-
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py <benchmark_name> --help
+python src/main.py <benchmark_name> --help
 ```
 
 
-for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
+for example for RWARE Benchmark:
 
 ```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
+git clone https://github.com/ay-ka/Qemix.git
+cd Qemix
 export PYTHONPATH=$PWD
-python src/ERL_MADDPG/main.py RobotManipulator --help
+python src/main.py RWARE --help
 ```
   
-for example for CEM_MADDPG for PressurePlate Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/CEM_MADDPG/main.py PressurePlate --help
-```
 
 
-  
-<b><h3><ROBOSUITE_MADDPG (only robosuite)></h3></b> 
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py RobotManipulator --help
-```
-
-for example for ROBOSUITE_MADDPG for ROBOSUITE Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/ROBOSUITE_MADDPG/main.py RobotManipulator --help
-```
 
 
-<b><h3><QMIX_NEAT (only RWARE)></h3></b> 
-  
-<h4>for QMIX arguments</h4>
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/<algorithm-directory-name>/main.py <benchmark_name> --help
-```
-  
-for example for QMIX_NEAT for RWARE Benchmark:
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-python src/QMIX_NEAT/main.py RWARE --help
-```
-
-<h4>for NEAT argument</h4>
-
-```sh
-git clone https://github.com/ay-ka/Reinforcement-Learning.git
-cd Reinforcement-Learning
-export PYTHONPATH=$PWD
-cd src/QMIX_NEAT/neat
-open config.txt file 
-```
 (for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/config_file.html">Repo</a>
 
 
