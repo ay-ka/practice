@@ -35,8 +35,6 @@
 
 
 
-:star:<b> Algorithms used in this project </b>
-
 
 
 
