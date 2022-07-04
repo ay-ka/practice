@@ -46,11 +46,6 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-## Getting Started
-
-this section explain instructions which should be followed to setting up the project. it is easier to run scripts from terminal by passing argument with the help of argparse library and this project also follow this pattern
-
 ### How To Run
 
 
