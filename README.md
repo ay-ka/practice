@@ -58,9 +58,6 @@ this section explain instructions which should be followed to setting up the pro
 
 
 
-(for more information about NEAT arguments refer to <a href="https://neat-python.readthedocs.io/en/latest/config_file.html">Repo</a>
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
