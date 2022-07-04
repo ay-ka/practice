@@ -35,9 +35,10 @@
 
 
 
+⭐ My Formal CV Website developed by html, css, js
 
 
-
+link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a>
 
 
 
