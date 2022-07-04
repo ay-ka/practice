@@ -18,9 +18,6 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#How-To-Run">How To Run</a>
-    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -49,12 +46,6 @@
 <br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-### How To Run
-
-
-
 
 
 
