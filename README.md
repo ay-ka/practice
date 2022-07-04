@@ -7,13 +7,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/ay-ka/Qemix">
-    <img  src="images/erl.png" alt="qmix" width="700" height="400">
-  </a>
-  <h6 align="center"; display: flex; justify-content: center>The Project is about combining QMIX with Evolutionary algorithms (Genetic) based on <br/>      method proposed in <a href="https://arxiv.org/pdf/1805.07917.pdf">Evolution-Guided Policy Gradient in Reinforcement Learning</a></h6>
-</div>
 
 <br />
 <br />
@@ -26,11 +19,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#Prerequisites-Installation">Prerequisites & Installation</a></li>
-        <li><a href="#How-To-Run">How To Run</a></li>
-      </ul>
+      <a href="#How-To-Run">How To Run</a>
     </li>
     <li><a href="#result">Result</a></li>
     <li><a href="#contributing">Contributing</a></li>
