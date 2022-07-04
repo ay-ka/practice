@@ -33,14 +33,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+<br/>
+<br/>
+<br/>
 
 ⭐ My Formal CV Website developed by html, css, js
+
+<br/>
+<br/>
 
 
 link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a>
 
-
+<br/>
+<br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
