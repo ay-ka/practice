@@ -19,7 +19,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
       <li>
-      <a href="#how-to-use">HOW TO USE</a>
+      <a href="#how-to-use">How To Use</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
