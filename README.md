@@ -50,7 +50,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### HOW TO USE
+### How To Use
 
 
 
