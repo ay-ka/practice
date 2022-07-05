@@ -60,7 +60,7 @@
 
 
 
-<div align="center"><h1>⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Web</a></h1></div>
+<div align="center"><h1>⭐ link to Website: <a href="https://ay-ka.github.io/NEAT_Visuializer/">Web</a></h1></div>
   
 
 <br/>
