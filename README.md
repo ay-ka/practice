@@ -53,7 +53,7 @@
   <img src="images/1.png">
   <b><h2>crossover by activating both betwork</h2></b>
   <img src="images/4.png">
-  <li><b>start crossover</li>
+  <b><h2>start crossover</h2></b>
   <li><img src=""></li>
 </ul>
 
