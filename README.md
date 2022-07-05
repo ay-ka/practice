@@ -60,8 +60,9 @@
 
 
 
-⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Link</a>
+<div align="center">⭐ link to Website: <a href="https://ay-ka.github.io/CV_website/">Web</a><div>
 
+  
 <!-- CONTRIBUTING -->
 ## Contributing
 
