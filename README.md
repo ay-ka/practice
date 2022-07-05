@@ -35,7 +35,7 @@
 
  <b>NEAT:</b> NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates and evolves artificial neural networks by adding                   nodes and connections to network throughout generations (mutation) and crossovering between networks (crossover)
  
- <b>This project (NEAT_Visuializer):</b> at this project it has been tried to visuialize <b>adding nodes</b> and <b>adding connections</b> part in NEAT                   paper to get better understanding of mutation done in paper alongside <b>crossover</b> operators on networks 
+ <b>This project (NEAT_Visuializer):</b> at this project it has been tried to visuialize <b>adding nodes</b> and <b>adding connections</b> part in NEAT                   paper to get better understanding of mutation done in paper alongside <b>crossover</b> operator on networks 
  
  
 
