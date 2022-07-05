@@ -46,7 +46,7 @@
 <ul>
   
   <li><b>Active a network and add node and connections</li>
-  <li><img src="images/1.png"></li>
+  <img float="left" src="images/1.png">
   <li><img src="images/2.png"></li>
   <li><b>Unset network</li>
   <li><img src=""></li>
