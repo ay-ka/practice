@@ -47,7 +47,7 @@
   
   <li><b>Active a network and add node and connections</li>
   <img float="left" src="images/1.png">
-  <li><img src="images/2.png"></li>
+  <img src="images/2.png">
   <li><b>Unset network</li>
   <li><img src=""></li>
   <li><b>crossover by activating both betwork</li>
